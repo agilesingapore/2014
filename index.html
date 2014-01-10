@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+<!--     <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Agile Singapore 2014 Conference</title>
+
+    <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Add custom CSS here -->
+    <link href="css/main.css" rel="stylesheet">
+    <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet">
+  </head>
+
+  <body>
+  
+    <!-- Full Page Image Header Area -->
+    <div id="top" class="header">
+      <div class="vert-text">
+        <h1>Agile Singapore 2014 Conference</h1>
+        <h3><em>13th - 15th August at Marina Bay Sands</em></h3>
+
+        <h4>While we are getting ready for this year's conference, read on to see how last year's went...</h4>
+      </div>
+    </div>
+    <!-- /Full Page Image Header Area -->
+  
+    <div id="about" class="info-light">
+      <div class="container">
+            <h2>Last year, more than 400 people gathered at Marina Bay Sands for 2 days.</h2>
+            <p class="lead">Software developers, QA, Managers, Consultants, Executives etc.</p>
+      </div>
+    </div>
+
+    <div class="sponsors-header"></div>
+  
+    <div id="sponsors" class="info-dark">
+      <div class="container">
+            <h2>More than 10 sponsors and exhibition booths</h2>
+            <p class="lead">Odd-e, Rally Software, J.P. Morgan, Bank of America...</p>
+      </div>
+    </div>
+
+    <div class="speakers-header"></div>
+  
+    <div id="speakers" class="info-light">
+      <div class="container">
+            <h2>Notable speakers</h2>
+            <p class="lead">Jim McCarthy, David Hussman, Kevlin, Kent Beck...</p>
+      </div>
+    </div>
+  
+
+    <!-- Portfolio -->
+    <div id="portfolio" class="portfolio">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8 col-md-offset-2 text-center">
+            <h2>What people said about the conference?</h2>
+            <hr>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-4 col-md-offset-2 text-center">
+            <div class="portfolio-item">
+              <a href="#"><img class="img-portfolio img-responsive" src="img/portfolio-1.jpg"></a>
+              
+            </div>
+          </div>
+          <div class="col-md-4 text-center">
+            <div class="portfolio-item">
+              <a href="#"><img class="img-portfolio img-responsive" src="img/portfolio-2.jpg"></a>
+              
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-10 col-md-offset-1 text-center">
+            <p class="lead">"Great conference, hope to be there next year!"</p>
+            <p class="lead">"Kevlin blew my mind with the presentation about Craftmanship"</p>
+            <p class="lead">"It was a great honor and pleasure to speak amongst such distinguished names in the Agile community. ~ Astrid Claessen"</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- /Portfolio -->
+
+
+    <!-- Call to Action -->
+    <div class="call-to-action">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4">
+<img  src="img/portfolio-2.jpg" class="img-portfolio img-responsive">
+          </div>
+          <div class="col-md-8">
+            <h3>This year is a 3 day conference at Marina Bay Sands.</h3>
+            <p class="lead">If you want to be a sponsor or speaker please contact us at ask2014@agilesingapore<p>
+            <p class="lead">If you missed last year's conference and wanted to be notified on this conference progress -> <a href="http://eepurl.com/L5BAb" class="btn btn-lg btn-primary">Subscribe here!</a><p>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- /Call to Action -->
+
+    <!-- Footer -->
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 col-md-offset-3 text-center">
+            <ul class="list-inline">
+              <li><i class="fa fa-facebook fa-3x"></i></li>
+              <li><i class="fa fa-twitter fa-3x"></i></li>
+              <li><i class="fa fa-dribbble fa-3x"></i></li>
+            </ul>
+            <div class="top-scroll">
+              <a href="#top"><i class="fa fa-circle-arrow-up scroll fa-4x"></i></a>
+            </div>
+            <hr>
+            <p>Copyright &copy; Agile SG Pte Ltd 2014</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- /Footer -->
+
+    <!-- JavaScript -->
+    <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+    
+    <!-- Custom JavaScript for the Side Menu and Smooth Scrolling -->
+    <script>
+        $("#menu-close").click(function(e) {
+            e.preventDefault();
+            $("#sidebar-wrapper").toggleClass("active");
+        });
+    </script>
+    <script>
+        $("#menu-toggle").click(function(e) {
+            e.preventDefault();
+            $("#sidebar-wrapper").toggleClass("active");
+        });
+    </script>
+    <script>
+      $(function() {
+        $('a[href*=#]:not([href=#])').click(function() {
+          if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') 
+            || location.hostname == this.hostname) {
+
+            var target = $(this.hash);
+            target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+            if (target.length) {
+              $('html,body').animate({
+                scrollTop: target.offset().top
+              }, 1000);
+              return false;
+            }
+          }
+        });
+      });
+    </script>
+
+  </body>
+
+</html>
