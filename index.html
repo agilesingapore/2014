@@ -60,21 +60,19 @@
       <div class="container">
         <div class="row">
           <div class="col-md-8 col-md-offset-2 text-center">
-            <h2>What people said about the conference?</h2>
+            <h2>What do people said about the conference?</h2>
             <hr>
           </div>
         </div>
         <div class="row">
           <div class="col-md-4 col-md-offset-2 text-center">
-            <div class="portfolio-item">
-              <a href="#"><img class="img-portfolio img-responsive" src="img/portfolio-1.jpg"></a>
-              
+            <div class="video-container">
+                <iframe width="500" height="281" src="//www.youtube.com/embed/nicXTTQ-zG0" frameborder="0" allowfullscreen></iframe>
             </div>
           </div>
           <div class="col-md-4 text-center">
-            <div class="portfolio-item">
-              <a href="#"><img class="img-portfolio img-responsive" src="img/portfolio-2.jpg"></a>
-              
+            <div class="video-container">
+                <iframe width="500" height="281" src="//www.youtube.com/embed/nicXTTQ-zG0" frameborder="0" allowfullscreen></iframe>
             </div>
           </div>
         </div>
@@ -95,7 +93,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-4">
-<img  src="img/portfolio-2.jpg" class="img-portfolio img-responsive">
+<img  src="img/mbs.jpg" class="img-portfolio img-responsive">
           </div>
           <div class="col-md-8">
             <h3>This year is a 3 day conference at Marina Bay Sands.</h3>
@@ -133,37 +131,6 @@
     <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
     
-    <!-- Custom JavaScript for the Side Menu and Smooth Scrolling -->
-    <script>
-        $("#menu-close").click(function(e) {
-            e.preventDefault();
-            $("#sidebar-wrapper").toggleClass("active");
-        });
-    </script>
-    <script>
-        $("#menu-toggle").click(function(e) {
-            e.preventDefault();
-            $("#sidebar-wrapper").toggleClass("active");
-        });
-    </script>
-    <script>
-      $(function() {
-        $('a[href*=#]:not([href=#])').click(function() {
-          if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') 
-            || location.hostname == this.hostname) {
-
-            var target = $(this.hash);
-            target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
-            if (target.length) {
-              $('html,body').animate({
-                scrollTop: target.offset().top
-              }, 1000);
-              return false;
-            }
-          }
-        });
-      });
-    </script>
 
   </body>
 
