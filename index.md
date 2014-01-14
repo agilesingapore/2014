@@ -5,16 +5,21 @@ title: Agile Singapore 2014 Conference
 dates: 13th - 15th August at Marina Bay Sands
 ready: While we are getting ready for this year's conference, read on to see how last year's went...
 
-lastyear: Last year, more than 400 people gathered at Marina Bay Sands for 2 days.
-lastyear-more: Software developers, QA, Managers, Consultants, Executives etc.
+lastyear: Last year over 400 people gathered at Marina Bay Sand for 2 days to Learn, Share, Make friends at the inaugural Agile Conference in Singapore.
+lastyear-more: 
 
-sponsors: More than 10 sponsors and exhibition booths
-sponsors-more: Odd-e, Rally Software, J.P. Morgan, Bank of America...
+sponsors: More than 10 sponsors with the title sponsorship being shared by Odd-e and Rally.
+sponsors-more: 
 
-speakers: Notable speakers
-speakers-more: Jim McCarthy, David Hussman, Kevlin, Kent Beck...
+speakers: We invited notable speakers who contributed to the Agile movement
+speakers-more: Jim McCarthy, David Hussman, Tom Gilb, Kent Beck, Kevlin Henney, Bas Vodde...
 
-interview: What do people said about the conference?
+interview: What did people say about the conference?
+
+thisyear: This year's conference will be a three day event at the magnificent Marina Bay Sands
+thisyear-more: If you would like to be a sponsor or a speaker please contact us at ask2014@agilesingapore
+
+callout: We have listened to your feedback and this year we will do it all again, bigger and better. It will be a three day event from 13 to 15 Aug. So subscribe to news or watch this space.
 ---
 
 <div id="top" class="header">
@@ -74,7 +79,7 @@ interview: What do people said about the conference?
       </div>
       <div class="col-md-4 text-center">
         <div class="video-container">
-            <iframe width="500" height="281" src="//www.youtube.com/embed/nicXTTQ-zG0" frameborder="0" allowfullscreen></iframe>
+            <iframe width="500" height="281" src="//www.youtube.com/embed/Zb95ry-ZTUI" frameborder="0" allowfullscreen></iframe>
         </div>
       </div>
     </div>
@@ -95,9 +100,10 @@ interview: What do people said about the conference?
         <img src="img/mbs.jpg" class="img-interview img-responsive">
       </div>
       <div class="col-md-8">
-        <h3>This year is a 3 day conference at Marina Bay Sands.</h3>
-        <p class="lead">If you want to be a sponsor or speaker please contact us at ask2014@agilesingapore<p>
-        <p class="lead">If you missed last year's conference and wanted to be notified on this conference progress -> <a href="http://eepurl.com/L5BAb" class="btn btn-lg btn-primary">Subscribe here!</a><p>
+        <h3>{{ page.thisyear }}</h3>
+        <p class="lead">{{ page.thisyear-more }}<p>
+        <p class="lead">{{ page.callout }}
+        <a href="http://eepurl.com/L5BAb" class="btn btn-lg btn-primary">Subscribe here!</a><p>
         
       </div>
     </div>
