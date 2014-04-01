@@ -65,6 +65,22 @@ callout: We have listened to your feedback and this year we will do it all again
 
 <div id="interview" class="interview">
   <div class="container">
+
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2 text-center">
+        <h2>A walkthrough of the conference</h2>
+        <hr>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2 text-center">
+        <div class="video-container">
+            <iframe width="500" height="281" src="//www.youtube.com/embed/ZO66hRBD0rY" frameborder="0" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+
+
     <div class="row">
       <div class="col-md-8 col-md-offset-2 text-center">
         <h2>{{ page.interview }}</h2>
@@ -88,8 +104,10 @@ callout: We have listened to your feedback and this year we will do it all again
         <p class="lead">"Great conference, hope to be there next year!"</p>
         <p class="lead">"Kevlin blew my mind with the presentation about Craftmanship"</p>
         <p class="lead">"It was a great honor and pleasure to speak amongst such distinguished names in the Agile community"</p>
+
       </div>
     </div>
+
   </div>
 </div>
 
