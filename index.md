@@ -2,7 +2,7 @@
 layout: default
 title: Agile Singapore 2014 Conference
 
-dates: 13th - 15th August at Marina Bay Sands
+dates: 12th - 14th November at Marina Bay Sands
 ready: While we are getting ready for this year's conference, read on to see how last year's went...
 
 lastyear: Last year over 400 people gathered at Marina Bay Sand for 2 days to Learn, Share, Make friends at the inaugural Agile Conference in Singapore.
@@ -17,9 +17,9 @@ speakers-more: Jim McCarthy, David Hussman, Tom Gilb, Kent Beck, Kevlin Henney, 
 interview: What did people say about the conference?
 
 thisyear: This year's conference will be a three day event at the magnificent Marina Bay Sands
-thisyear-more: If you would like to be a sponsor or a speaker please contact us at ask2014@agilesingapore
+thisyear-more: If you would like to be a sponsor or a speaker please email us, ask2014 at agilesingapore.org
 
-callout: We have listened to your feedback and this year we will do it all again, bigger and better. It will be a three day event from 13 to 15 Aug. So subscribe to news or watch this space.
+callout: We have listened to your feedback and this year we will do it all again, bigger and better. It will be a three day event from 12 to 14 Nov. So subscribe to news or watch this space.
 ---
 
 <div id="top" class="header">
@@ -31,7 +31,7 @@ callout: We have listened to your feedback and this year we will do it all again
     </div>
     <div class="row">
       <div class="col-md-8 col-md-offset-2 text-center">
-        <h3><em>{{ page.dates }}</em></h3>
+        <h2>{{ page.dates }}</h2>
         <h4>{{ page.ready }}</h4>
       </div>
     </div>
@@ -84,10 +84,10 @@ callout: We have listened to your feedback and this year we will do it all again
       </div>
     </div>
     <div class="row">
-      <div class="col-md-10 col-md-offset-1 text-center">
+      <div class="col-md-12 col-md-offset-0 text-center">
         <p class="lead">"Great conference, hope to be there next year!"</p>
         <p class="lead">"Kevlin blew my mind with the presentation about Craftmanship"</p>
-        <p class="lead">"It was a great honor and pleasure to speak amongst such distinguished names in the Agile community. ~ Astrid Claessen"</p>
+        <p class="lead">"It was a great honor and pleasure to speak amongst such distinguished names in the Agile community"</p>
       </div>
     </div>
   </div>
@@ -104,7 +104,6 @@ callout: We have listened to your feedback and this year we will do it all again
         <p class="lead">{{ page.thisyear-more }}<p>
         <p class="lead">{{ page.callout }}
         <a href="http://eepurl.com/L5BAb" class="btn btn-lg btn-primary">Subscribe here!</a><p>
-        
       </div>
     </div>
   </div>
