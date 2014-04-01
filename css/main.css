@@ -12,7 +12,7 @@ body {
 
 .header {
   display: table;
-  height: 70%;
+  height: 60%;
   width: 100%;
   position: relative;
   background: url(../img/bg.jpg) no-repeat center top fixed; 

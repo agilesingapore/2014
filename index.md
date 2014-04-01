@@ -5,10 +5,10 @@ title: Agile Singapore 2014 Conference
 dates: 12th - 14th November at Marina Bay Sands
 ready: While we are getting ready for this year's conference, read on to see how last year's went...
 
-lastyear: Last year over 400 people gathered at Marina Bay Sand for 2 days to Learn, Share, Make friends at the inaugural Agile Conference in Singapore.
+lastyear: Last year over 400 people gathered at Marina Bay Sands for 2 days to learn, share and make friends at the inaugural Agile Conference in Singapore
 lastyear-more: 
 
-sponsors: More than 10 sponsors with the title sponsorship being shared by Odd-e and Rally.
+sponsors: More than 13 sponsors with the title sponsorship by Odd-e and Rally
 sponsors-more: 
 
 speakers: We invited notable speakers who contributed to the Agile movement
