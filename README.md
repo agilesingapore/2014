@@ -1,3 +1,13 @@
+Requires
+```
+gem install jekyll
+```
+
+Run locally
+```
+jekyll serve --watch
+```
+
 Bootstrap 3 is compiled without
 * Glyphicons
 * Breadcrumbs
