@@ -9,7 +9,7 @@ title: Agile Singapore 2014 Conferencd
       <h1>Agile Singapore 2014<br/>Conference</h1>
       <h2>12 to 14 November, Marina Bay Sands</h2>
       
-      <p><a class="btn btn-primary btn-lg" role="button" href="https://app.gevme.com/35472041/registration" target="_blank">Super Early Bird</a></p>
+      <p><a class="btn btn-primary btn-lg" role="button" href="http://agilesg2014.gevme.com" target="_blank">Super Early Bird</a></p>
       <p><a class="learn2013 btn btn-info btn-sm" role="button" href="http://2013.agilesingapore.org" target="_blank">Learn more about 2013</a></p>
       
       <ul class="social list-inline">
