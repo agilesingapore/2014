@@ -1,128 +1,107 @@
 ---
 layout: default
-title: Agile Singapore 2014 Conference
+title: Agile Singapore 2014 Conferencd
 
-dates: 12th - 14th November at Marina Bay Sands
-ready: While we are getting ready for this year's conference, read on to see how last year's went...
-
-lastyear: Last year over 400 people gathered at Marina Bay Sands for 2 days to learn, share and make friends at the inaugural Agile Conference in Singapore
-lastyear-more: 
-
-sponsors: More than 13 sponsors with the title sponsorship by Odd-e and Rally
-sponsors-more: 
-
-speakers: We invited notable speakers who contributed to the Agile movement
-speakers-more: Jim McCarthy, David Hussman, Tom Gilb, Kent Beck, Kevlin Henney, Bas Vodde...
-
-interview: What did people say about the conference?
-
-thisyear: This year's conference will be a three day event at the magnificent Marina Bay Sands
-thisyear-more: If you would like to be a sponsor or a speaker please email us, ask2014 at agilesingapore.org
-
-callout: We have listened to your feedback and this year we will do it all again, bigger and better. It will be a three day event from 12 to 14 Nov. So subscribe to news or watch this space.
 ---
 
-<div id="top" class="header">
-  <div class="container vert-text">
-    <div class="row">
-      <div class="col-md-8 col-md-offset-2 text-center">
-        <img src="img/title_logo.png" class="img-responsive">
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-8 col-md-offset-2 text-center">
-        <h2>{{ page.dates }}</h2>
-        <h4>{{ page.ready }}</h4>
-      </div>
-    </div>
-  </div>
+<div class="jumbotron">
+   <div class="container text-center">
+      <h1>Agile Singapore 2014<br/>Conference</h1>
+      <h2>12 to 14 November, Marina Bay Sands</h2>
+      
+      <p><a class="btn btn-primary btn-lg" role="button" href="https://app.gevme.com/35472041/registration" target="_blank">Super Early Bird</a></p>
+      <p><a class="learn2013 btn btn-info btn-sm" role="button" href="http://2013.agilesingapore.org" target="_blank">Learn more about 2013</a></p>
+      
+      <ul class="social list-inline">
+        <li><span class="fa fa-facebook"></span> Visit Event Page</li>
+        <li><span class="fa fa-twitter"></span> <a href="https://twitter.com/search?q=%23AgileSG" target="_blank">#AgileSG</a></li>
+        <li><span class="fa fa-bullhorn"></span> <a href="http://eepurl.com/L5BAb" target="_blank">Subscribe for News</a></li>
+      </ul>
+   </div>
 </div>
 
-<div id="about" class="info-light">
-  <div class="container">
-    <h2>{{ page.lastyear }}</h2>
-    <p class="lead">{{ page.lastyear-more }}</p>
-  </div>
-</div>
-
-<div class="sponsors-header"></div>
-
-<div id="sponsors" class="info-dark">
-  <div class="container">
-    <h2>{{ page.sponsors }}</h2>
-    <p class="lead">{{ page.sponsors-more }}</p>
-  </div>
-</div>
-
-<div class="speakers-header"></div>
-
-<div id="speakers" class="info-light">
-  <div class="container">
-    <h2>{{ page.speakers }}</h2>
-    <p class="lead">{{ page.speakers-more }}</p>
-  </div>
-</div>
-
-<div id="interview" class="interview">
-  <div class="container">
-
-    <div class="row">
-      <div class="col-md-8 col-md-offset-2 text-center">
-        <h2>A walkthrough of the conference</h2>
-        <hr>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-8 col-md-offset-2 text-center">
-        <div class="video-container">
-            <iframe width="500" height="281" src="//www.youtube.com/embed/ZO66hRBD0rY" frameborder="0" allowfullscreen></iframe>
-        </div>
-      </div>
-    </div>
-
-
-    <div class="row">
-      <div class="col-md-8 col-md-offset-2 text-center">
-        <h2>{{ page.interview }}</h2>
-        <hr>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-4 col-md-offset-2 text-center">
-        <div class="video-container">
-            <iframe width="500" height="281" src="//www.youtube.com/embed/nicXTTQ-zG0" frameborder="0" allowfullscreen></iframe>
-        </div>
-      </div>
-      <div class="col-md-4 text-center">
-        <div class="video-container">
-            <iframe width="500" height="281" src="//www.youtube.com/embed/Zb95ry-ZTUI" frameborder="0" allowfullscreen></iframe>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12 col-md-offset-0 text-center">
-        <p class="lead">"Great conference, hope to be there next year!"</p>
-        <p class="lead">"Kevlin blew my mind with the presentation about Craftmanship"</p>
-        <p class="lead">"It was a great honor and pleasure to speak amongst such distinguished names in the Agile community"</p>
-
-      </div>
-    </div>
-
-  </div>
-</div>
-
-<div class="call-to-action">
-  <div class="container">
+<div class="speakers-brief">
+  <div class="container text-center">
+    <h1 class="page-header">Speakers</h1>
     <div class="row">
       <div class="col-md-4">
-        <img src="img/mbs.jpg" class="img-interview img-responsive">
+        <div class="thumbnail">
+          <a href="speakers.html#linda_rising">
+            <img src="img/speakers/linda_rising.jpg" width="256" height="256">
+          </a>
+          <div class="caption">
+            <h2>Linda Rising</h2>
+            <p>Co-author of "Fearless Change" and international speaker relating to patterns</p>
+          </div>
+        </div>
       </div>
-      <div class="col-md-8">
-        <h3>{{ page.thisyear }}</h3>
-        <p class="lead">{{ page.thisyear-more }}<p>
-        <p class="lead">{{ page.callout }}
-        <a href="http://eepurl.com/L5BAb" class="btn btn-lg btn-primary">Subscribe here!</a><p>
+      <div class="col-md-4">
+        <div class="thumbnail">
+          <a href="speakers.html#rachel_davies">
+            <img src="img/speakers/rachel_davies.jpg" width="256" height="256">
+          </a>
+          <div class="caption">
+            <h2>Rachel Davies</h2>
+            <p>Co-author of the first book on "Agile Coaching"</p>
+          </div>
+        </div>
+
+      </div>
+      <div class="col-md-4">
+        <div class="thumbnail">
+          <a href="speakers.html#evelyn_tian">
+            <img src="img/speakers/evelyn_tian.jpg" width="256" height="256">
+          </a>
+          <div class="caption">
+            <h2>Evelyn Tian</h2>
+            <p>Lean and Agile Head Coach for Ericsson Communications Asia-Pacific</p>
+          </div>
+        </div>
       </div>
     </div>
+
+    <div class="row">
+      <div class="col-md-4">
+        <div class="thumbnail">
+          <a href="speakers.html#kevlin_henney">
+            <img src="img/speakers/kevlin_henney.jpg" width="256" height="256">
+          </a>
+          <div class="caption">
+            <h2>Kelvin Henney</h2>
+            <p>Editor of 97 Things Every Programmer Should Know</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="thumbnail">
+          <a href="speakers.html#mfeathers">
+            <img src="img/speakers/mfeathers.jpg" width="256" height="256">
+          </a>
+          <div class="caption">
+            <h2>Michael Feathers</h2>
+            <p>Author of "Working Effectively with Legacy Code"</p>
+          </div>
+        </div>
+
+      </div>
+      <div class="col-md-4">
+        <div class="thumbnail">
+          <a href="speakers.html#bas_vodde">
+            <img src="img/speakers/bas_vodde.jpg" width="256" height="256">
+          </a>
+          <div class="caption">
+            <h2>Bas Vodde</h2>
+            <p>Co-author of LeSS (Large Scale Scrum) and Lean Product Development Expert</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<div class="sponsors-brief">
+  <div class="container text-center">
+    <p>Interested in sponsoring? Please <a href="mailto:ask2014@agilesingapore.org">contact us</a> if you want to be featured here.</p>
   </div>
 </div>

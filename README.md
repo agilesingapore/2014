@@ -8,10 +8,10 @@ Run locally
 jekyll serve --watch
 ```
 
-Bootstrap 3 is compiled without
-* Glyphicons
-* Breadcrumbs
-* Pagination
-* Pager
-* All JS components
-* and changed san serif font family to just Ubuntu
+To deploy, use the following after commit
+```shell
+git push
+```
+
+Customized Bootstrap 3
+http://getbootstrap.com/customize/?id=11516321

@@ -2,6 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -10,38 +11,63 @@
 
     <link rel="shortcut icon" href="img/favicon.ico">
     <link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700,300italic,400italic,500italic,700italic' rel='stylesheet' type='text/css'>
-
-<!--     <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
- -->
+<!--     <link href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet"> -->
+ 
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/main.css" rel="stylesheet">
     <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet">
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-51085940-1', 'agilesingapore.org');
+      ga('send', 'pageview');
+
+    </script>
   </head>
 
   <body>
+    <div class="navbar navbar-default navbar-static-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/"><img src="img/title_logo.png" width="250"/></a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="speakers.html">Speakers</a></li>
+            <li><a href="venue.html">Venue</a></li>
+            <li><a href="organisers.html">Organisers</a></li>
+            <li><a class="btn btn-default" href="https://app.gevme.com/35472041/registration" target="_blank">Buy Ticket</a></li>  
+          </ul>
+        </div>
+          
+      </div>
+    </div>
   
     {{ content }}
 
     <footer>
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6 col-md-offset-3 text-center">
-            <!-- <ul class="list-inline">
-              <li class="lead"><i class="fa fa-facebook fa-2x"></i> Visit event page</li>
-              <li class="lead"><i class="fa fa-twitter fa-2x"></i> #AgileSG</li>
-            </ul>
-            <div class="top-scroll">
-              <a href="#top"><i class="fa fa-arrow-circle-o-up scroll fa-4x"></i></a>
-            </div>
-            <hr> -->
-            <p>Copyright &copy; Agile SG Pte Ltd 2014</p>
-          </div>
-        </div>
+      <div class="container text-center">
+        <!-- <ul class="list-inline" >
+          <li><span class="fa fa-facebook"></span> Visit Event Page</li>
+          <li><span class="fa fa-twitter"></span> #AgileSG</li>
+          <li><span class="fa fa-bullhorn"></span> Subscribe for News</li>
+        </ul> -->
+        <p>&copy; 2014 Agile SG Pte Ltd</p>
       </div>
     </footer>
 
     <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
-    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
 
   </body>
 
