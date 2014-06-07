@@ -17,7 +17,7 @@ title: Agile Singapore 2014 - Call for papers
           <p>
             The conference has been organised into three tracks:
             <ul>
-              <li>Teams</li>
+              <li>Technical</li>
               <li>Practices</li>
               <li>Organisation</li>
             </ul>
@@ -39,7 +39,7 @@ title: Agile Singapore 2014 - Call for papers
           
           <p>You can make up to three submissions.</p>
 
-          <p>Please also include your bio, including a photo and speaking references.</p>
+          <p>Please also include your bio, including a photo, and speaking references - preferably videotaped presentations.</p>
 
           <p>Your submissions will be thoroughly reviewed by the committee comprising experts from industry. Please also indicate if you consent to having your presentation or workshop filmed and then made available on the Internet.</p>
 
