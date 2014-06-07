@@ -11,7 +11,7 @@ title: Agile Singapore 2014 - Call for papers
       <div class="col-md-1">
       </div>
       <div class="col-md-10 text-left">
-          <p>Agile software development has it’s genesis in the <a href="http://agilemanifesto.org" target="_blank">Agile Manifesto</a> and the principles brought forth there. It has since become a well known but not necessarily a well practiced way of doing software. We intend this conference to further spread the awareness about agility in the context of software development as well as challenge and inspire those who are practicing agility to further successes.</p>
+          <p>Agile software development has its genesis in the <a href="http://agilemanifesto.org" target="_blank">Agile Manifesto</a> and the principles brought forth there. It has since become a well known but not necessarily a well practiced way of doing software. We intend this conference to further spread the awareness about agility in the context of software development as well as challenge and inspire those who are practicing agility to further successes.</p>
 
           <h2>Topics</h2>
           <p>
@@ -41,14 +41,14 @@ title: Agile Singapore 2014 - Call for papers
 
           <p>Please also include your bio, including a photo, and speaking references - preferably videotaped presentations.</p>
 
-          <p>Your submissions will be thoroughly reviewed by the committee comprising experts from industry. Please also indicate if you consent to having your presentation or workshop filmed and then made available on the Internet.</p>
+          <p>Your submissions will be thoroughly reviewed by the committee comprising experts from industry.</p>
 
           <h2>Logistics for successful submissions</h2>
-          <p>We will be offering chosen speakers complimentary accommodation at the venue and access to the event. Speakers will need to organise and cover the cost of transport to the conference.</p>
+          <p>We will be offering chosen speakers three night's accommodation at the venue and access to the event. Speakers will need to organise and cover the cost of transport to the conference.</p>
 
           <h2>Important Dates</h2>
           <ul>
-            <li>Due date for submissions: 16th of July</li>
+            <li>Closing date for submissions: 16th of July</li>
             <li>Response to submission: 16th of August</li>
             <li>Conference: 12th - 14th November</li>
           </ul>
