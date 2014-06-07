@@ -34,12 +34,12 @@ title: Agile Singapore 2014 - Call for papers
             <li>Keywords</li>
             <li>Half page description of the proposed talk/workshop.</li>
             <li>Intended audience</li>
-            <li>References for the topic</li>
+            <li>References to prior deliveries of this topic, if any</li>
           </ul>
           
           <p>You can make up to three submissions.</p>
 
-          <p>Please also include your bio, including a photo, and speaking references - preferably videotaped presentations.</p>
+          <p>Please also include your bio, including a photo, and general speaking references - preferably videotaped presentations.</p>
 
           <p>Your submissions will be thoroughly reviewed by the committee comprising experts from industry.</p>
 
