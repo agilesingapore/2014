@@ -67,7 +67,7 @@ title: Agile Singapore 2014 Conferencd
             <img src="img/speakers/kevlin_henney.jpg" width="256" height="256">
           </a>
           <div class="caption">
-            <h2>Kelvin Henney</h2>
+            <h2>Kevlin Henney</h2>
             <p>Editor of 97 Things Every Programmer Should Know</p>
           </div>
         </div>
