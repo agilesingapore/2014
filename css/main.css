@@ -30,11 +30,11 @@ p, li {
 .jumbotron .container h1 {
   font-size: 70px;
   font-weight: 300;
-  text-shadow: 1px 1px #777777;
+  text-shadow: 2px 2px #777777;
 }
 
 .jumbotron .container h2 {
-  text-shadow: 1px 1px #777777;
+  text-shadow: 2px 2px #777777;
   margin-bottom: 50px;
 }
 
