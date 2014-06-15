@@ -50,7 +50,7 @@ title: Agile Singapore 2014 - Organisers
       </div>
       <div class="bio col-md-9">
         <h2>John Lim</h2>
-        <p>John is an embedded software developer who is passionate about his craft. Even with many successful projects under his belt, there was always the nagging feeling that something was not quite right. The missing pieces fell into place after he was introduced to Agile principles and practices. He has not looked back since. Now an agile practitioner, John seeks to contribute back to the agile community in any small ways he can.</p>
+        <p>John is a software developer who is passionate about his craft. Even with many successful projects under his belt, there was always the nagging feeling that something was not quite right. The missing pieces fell into place after he was introduced to Agile principles and practices. He has not looked back since. Now an agile practitioner, John helps teams transition to Agile Software Development, building a sustainable team culture to go with it.</p>
       </div>
     </div>
 
