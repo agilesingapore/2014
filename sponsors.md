@@ -30,14 +30,12 @@ title: Agile Singapore 2014 - Sponsors
 
 	<h3>Platinum Sponsors</h3>
 
-    <div class="row">
-        <div class="col-md-3">
-			&nbsp;
-        </div>
+    <div class="row" style="min-height: 100px; padding-top:10px">
+			     You can be here.
     </div>
 
 	<h3>Gold Sponsors</h3>
-		
+
     <div class="row">
         <div class="col-md-3">
 			&nbsp;
@@ -58,10 +56,8 @@ title: Agile Singapore 2014 - Sponsors
 
 	<h3>Silver Sponsors</h3>
 
-    <div class="row">
-        <div class="col-md-3">
-			&nbsp;
-        </div>
+    <div class="row" style="min-height: 100px; padding-top:10px">
+           You can be here.
     </div>
 
   </div>
