@@ -31,7 +31,7 @@ title: Agile Singapore 2014 - Sponsors
 	<h3>Platinum Sponsors</h3>
 
     <div class="row" style="min-height: 100px; padding-top:10px">
-			     You can be here.
+			     Your company could be featured here
     </div>
 
 	<h3>Gold Sponsors</h3>
@@ -57,7 +57,7 @@ title: Agile Singapore 2014 - Sponsors
 	<h3>Silver Sponsors</h3>
 
     <div class="row" style="min-height: 100px; padding-top:10px">
-           You can be here.
+           Your company could be featured here.
     </div>
 
   </div>
