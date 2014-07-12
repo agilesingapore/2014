@@ -19,7 +19,7 @@ title: Agile Singapore 2014 - Organisers
 		
 		
         <div class="bio col-md-9">
-          <h2>Odd-e</h2>
+          <h2><a href="http://odd-e.com" target="_blank">Odd-e</a></h2>
           <p>Odd-e, based in Asia, builds products in innovative ways and helps others achieve so. Our team consists of experienced coaches and product developers who work according to the values of Scrum, Agile, Lean, and Craftsmanship. We also use these values to structure and run our company. For example, we don't have an organisational hierarchy or managers making decisions for others. We expect each individual to self-organize and use all his skills and continuously improve his competence.</p>
         </div>
     </div>
