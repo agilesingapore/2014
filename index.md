@@ -8,10 +8,10 @@ title: Agile Singapore 2014 Conferencd
    <div class="container text-center">
       <h1>Agile Singapore 2014<br/>Conference</h1>
       <h2>12 to 14 November, Marina Bay Sands</h2>
-      
-      <p><a class="btn btn-primary btn-lg" role="button" href="http://agilesg2014.gevme.com" target="_blank">Super Early Bird</a></p>
+
+      <p><a class="btn btn-primary btn-lg" role="button" href="http://agilesg2014.gevme.com" target="_blank">Early Bird</a></p>
       <p><a class="learn2013 btn btn-info btn-sm" role="button" href="http://2013.agilesingapore.org" target="_blank">Learn more about 2013</a></p>
-      
+
       <ul class="social list-inline">
         <li><span class="fa fa-facebook"></span> <a href="https://www.facebook.com/events/327707307383700/">Visit Event Page</a></li>
         <li><span class="fa fa-twitter"></span> <a href="https://twitter.com/search?q=%23AgileSG" target="_blank">#AgileSG</a></li>
