@@ -60,6 +60,24 @@ title: Agile Singapore 2014 - Sponsors
 
 	<h3>Silver Sponsors</h3>
 
+    <div class="row">
+        <div class="col-md-3">
+			&nbsp;
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-3">
+          <div class="thumbnail">
+            <img src="img/sponsors/NCS.png" width="200" height="200">
+          </div>
+        </div>
+
+        <div class="bio col-md-9">
+          <p>NCS is a leading infocommunications technology (ICT) service provider and together with SingTel, we have a presence in 22 countries located throughout APAC, Europe and the USA. NCS delivers end-to-end ICT and communications engineering solutions to help governments and enterprises realise business value through the innovative use of technology. Our unique delivery capabilities range across consulting, development, systems integration, outsourcing, infrastructure management &amp; solutions and portal management. We also deliver mobility, social media, portal management, machine-to-machine communications, analytics and business intelligence in our solution offerings to our customers. Headquartered in Singapore, NCS has over 8,000 staff serving governments and large global commercial enterprises. For more information on NCS, visit <a target=_blank href="http://www.ncs.com.sg">www.ncs.com.sg</a>.</p>
+        </div>
+    </div>
+
     <div class="row" style="min-height: 100px; padding-top:10px">
            Your company could be featured here.
     </div>
