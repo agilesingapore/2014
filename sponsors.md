@@ -19,7 +19,7 @@ title: Agile Singapore 2014 - Sponsors
     <div class="row">
         <div class="col-md-3">
           <div class="thumbnail">
-            <img src="img/sponsors/Odd-e.png" width="200" height="200">
+            <a href="http://odd-e.com" target="_blank"><img src="img/sponsors/Odd-e.png" width="200" height="200"></a>
           </div>
         </div>
 
@@ -45,7 +45,7 @@ title: Agile Singapore 2014 - Sponsors
     <div class="row">
         <div class="col-md-3">
           <div class="thumbnail">
-            <img src="img/sponsors/SoftwareEducation.png" width="200" height="200">
+            <a href="http://www.softed.com" target="_blank"><img src="img/sponsors/SoftwareEducation.png" width="200" height="200"></a>
           </div>
         </div>
 
@@ -69,7 +69,7 @@ title: Agile Singapore 2014 - Sponsors
     <div class="row">
         <div class="col-md-3">
           <div class="thumbnail">
-            <img src="img/sponsors/NCS.png" width="200" height="200">
+            <a href="http://www.ncs.com.sg" target="_blank"><img src="img/sponsors/NCS.png" width="200" height="200"></a>
           </div>
         </div>
 
