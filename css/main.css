@@ -138,6 +138,18 @@ p, li {
   padding-bottom: 20px;
 }
 
+.title-sponsor .thumbnail {
+  border: 0;
+  vertical-align: middle;
+}
+
+.title-sponsor .page-header {
+  border: 0;
+  margin-top: 53px;
+  margin-bottom: 33px;
+  padding: 0;
+}
+
 footer {
   background-color: #333333;
   height:150px;
