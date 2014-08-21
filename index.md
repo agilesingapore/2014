@@ -20,6 +20,18 @@ title: Agile Singapore 2014 Conferencd
    </div>
 </div>
 
+<div class="container text-center">
+  <h1 class="page-header">Speakers</h1>
+  <div class="row">
+    <div class="col-md-3">
+      <div class="thumbnail">
+        <a href="http://odd-e.com" target="_blank"><img src="img/sponsors/Odd-e.png" width="200" height="200"></a>
+        <a href="http://www.rallydev.com/asia" target="_blank"><img src="img/sponsors/Rally.png" width="200" height="200"></a>
+      </div>
+    </div>
+  </div>
+</div>
+
 <div class="speakers-brief">
   <div class="container text-center">
     <h1 class="page-header">Speakers</h1>
