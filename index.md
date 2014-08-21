@@ -23,7 +23,7 @@ title: Agile Singapore 2014 Conferencd
 <div class="container text-center">
   <h1 class="page-header">Title Sponsors</h1>
   <div class="row">
-    <div class="col-md-3">
+    <div class="col-md-4">
       <div class="thumbnail">
         <a href="http://odd-e.com" target="_blank"><img src="img/sponsors/Odd-e.png" width="200" height="200"></a>
       </div>
