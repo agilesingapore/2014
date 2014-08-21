@@ -24,11 +24,30 @@ title: Agile Singapore 2014 - Sponsors
         </div>
 
         <div class="bio col-md-9">
-          <p><a href="http://odd-e.com" target="_blank">Odd-e</a>, based in Asia, builds products in innovative ways and helps others achieve so. Our team consists of experienced coaches and product developers who work according to the values of Scrum, Agile, Lean, and Craftsmanship. We also use these values to structure and run our company. For example, we don't have an organisational hierarchy or managers making decisions for others. We expect each individual to self-organize and use all his skills and continuously improve his competence.</p>
+          <p><a href="http://odd-e.com" target="_blank">Odd-e</a>, based throughout east Asia, are self-governing teams of highly skilled and experienced software developers, coaches and trainers. Their software products are crafted so skillfully they actually cost less time and money than seemingly cheaper alternatives. Because of this built-in quality the product remains soft and easier to change meaning reduced overall costs and delays in the longer-term. We uphold the values of Scrum, Agile, Lean, and Craftsmanship both with our clients and within Odd-e. For example, we don't have an organisational hierarchy; No managers making decisions for others and no assistants being managed. We keep our space open to new thinking and leaderful teamwork with each team member able to use appropriate skills and continuously improve individual and team competence.</p>
         </div>
     </div>
 
 	<h3>Platinum Sponsors</h3>
+
+    <div class="row">
+        <div class="col-md-3">
+			&nbsp;
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-3">
+          <div class="thumbnail">
+            <a href="http://www.jpmorgan.com" target="_blank"><img src="img/sponsors/JPM.png" width="200" height="200"></a>
+          </div>
+        </div>
+
+        <div class="bio col-md-9">
+          <p>J.P. Morgan's Corporate & Investment Bank is a global leader across banking, markets and investor services. The world's most important corporations, governments and institutions entrust us with their business in more than 100 countries. With US$18.9 trillion of assets under custody and US$369.1 billion in client deposits*, the Corporate & Investment Bank provides strategic advice, raises capital, manages risk and extends liquidity in markets around the world. Further information about J.P. Morgan is available at <a target=_blank href="http://www.jpmorgan.com">www.jpmorgan.com</a></p>
+		  *As at 30 June, 2013
+        </div>
+    </div>
 
     <div class="row" style="min-height: 100px; padding-top:10px">
 			     Your company could be featured here
