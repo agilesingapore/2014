@@ -36,7 +36,7 @@ title: Agile Singapore 2014 - Sponsors
         </div>
 
         <div class="bio col-md-9">
-          <p>Rally Software is a leading global provider of enterprise-class software and services solutions that drive business agility. Companies use Rally Software’s solutions to accelerate the pace of innovation, improve productivity, and respond effectively to evolving competitive markets and customer needs. Rally Software’s SaaS platform transforms the way organizations manage the software development lifecycle by aligning software development and strategic business objectives, facilitating collaboration, and increasing transparency. Rally Software’s consulting and training services apply Agile and Lean approaches to help organizations innovate, lead, adapt, and deliver.</p>
+          <p><a href="http://www.rallydev.com/asia" target="_blank">Rally Software</a> is a leading global provider of enterprise-class software and services solutions that drive business agility. Companies use Rally Software’s solutions to accelerate the pace of innovation, improve productivity, and respond effectively to evolving competitive markets and customer needs. Rally Software’s SaaS platform transforms the way organizations manage the software development lifecycle by aligning software development and strategic business objectives, facilitating collaboration, and increasing transparency. Rally Software’s consulting and training services apply Agile and Lean approaches to help organizations innovate, lead, adapt, and deliver.</p>
         </div>
     </div>
 
