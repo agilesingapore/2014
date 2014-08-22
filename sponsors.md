@@ -40,6 +40,9 @@ title: Agile Singapore 2014 - Sponsors
         </div>
     </div>
 
+    <div class="row" style="min-height: 100px; padding-top:10px">
+    </div>
+
 	<h3>Platinum Sponsors</h3>
 
     <div class="row">
