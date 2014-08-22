@@ -56,8 +56,7 @@ title: Agile Singapore 2014 - Sponsors
         </div>
 
         <div class="bio col-md-9">
-          <p>J.P. Morgan's Corporate & Investment Bank is a global leader across banking, markets and investor services. The world's most important corporations, governments and institutions entrust us with their business in more than 100 countries. With US$18.9 trillion of assets under custody and US$369.1 billion in client deposits*, the Corporate & Investment Bank provides strategic advice, raises capital, manages risk and extends liquidity in markets around the world. Further information about J.P. Morgan is available at <a target=_blank href="http://www.jpmorgan.com">www.jpmorgan.com</a></p>
-		  *As at 30 June, 2013
+          <p>JPMorgan Chase & Co. (NYSE: JPM) is a leading global financial services firm with assets of $2.5 trillion and operations worldwide. The Firm is a leader in investment banking, financial services for consumers and small businesses, commercial banking, financial transaction processing, and asset management. A component of the Dow Jones Industrial Average, JPMorgan Chase & Co. serves millions of consumers in the United States and many of the world's most prominent corporate, institutional and government clients under its J.P. Morgan and Chase brands. Information about JPMorgan Chase & Co. is available at <a target=_blank href="http://www.jpmorgan.com">www.jpmorgan.com</a></p>
         </div>
     </div>
 
