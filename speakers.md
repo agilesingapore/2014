@@ -80,6 +80,24 @@ title: Agile Singapore 2014 - Speakers
     <div class="row">
       <div class="col-md-3">
         <div class="thumbnail">
+          <img src="img/speakers/mfeathers.jpg" width="200" height="200">
+        </div>
+      </div>
+      <div class="bio col-md-9">
+        <a name="mfeathers"></a>
+        <h2>Michael Feathers</h2>
+        <p>
+            <a href="http://www.linkedin.com/pub/michael-feathers/0/b7/b12" target="_blank"> LinkedIn</a> |
+            <a href="http://michaelfeathers.typepad.com" target="_blank">michaelfeathers.typepad.com</a> |
+            <a href="https://twitter.com/mfeathers" target="_blank">@mfeathers</a>
+        </p>
+        <p>Michael Feathers is the founder and Director of R7K Research & Conveyance, a company specializing in software and organization design. Prior to forming R7K, Michael was the Chief Scientist of Obtiva and a consultant with Object Mentor International. Over the years, Michael has spent a great deal of time helping teams after design over time in code bases. Michael is also the author of the book Working Effectively with Legacy Code (Prentice Hall, 2004).</p>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-3">
+        <div class="thumbnail">
           <img src="img/speakers/bas_vodde.jpg" width="200" height="200">
         </div>
       </div>
@@ -98,18 +116,18 @@ title: Agile Singapore 2014 - Speakers
     <div class="row">
       <div class="col-md-3">
         <div class="thumbnail">
-          <img src="img/speakers/mfeathers.jpg" width="200" height="200">
+          <img src="img/speakers/james_grenning.jpg" width="200" height="200">
         </div>
       </div>
       <div class="bio col-md-9">
-        <a name="mfeathers"></a>
-        <h2>Michael Feathers</h2>
+        <a name="grenning"></a>
+        <h2>James Grenning</h2>
         <p>
-            <a href="http://www.linkedin.com/pub/michael-feathers/0/b7/b12" target="_blank"> LinkedIn</a> |
-            <a href="http://michaelfeathers.typepad.com" target="_blank">michaelfeathers.typepad.com</a> |
-            <a href="https://twitter.com/mfeathers" target="_blank">@mfeathers</a>
+            <a href="http://www.linkedin.com/in/jwgrenning" target="_blank"> LinkedIn</a> |
+            <a href="http://wingman-sw.com" target="_blank">wingman-sw.com</a> |
+            <a href="https://twitter.com/jwgrenning" target="_blank">@jwgrenning</a>
         </p>
-        <p>Michael Feathers is the founder and Director of R7K Research & Conveyance, a company specializing in software and organization design. Prior to forming R7K, Michael was the Chief Scientist of Obtiva and a consultant with Object Mentor International. Over the years, Michael has spent a great deal of time helping teams after design over time in code bases. Michael is also the author of the book Working Effectively with Legacy Code (Prentice Hall, 2004).</p>
+        <p>James Grenning, founder of Wingman Software, trains, coaches and consults worldwide. With more than thirty years of software development experience, both technical and managerial, James brings a wealth of knowledge, skill, and creativity to software development teams and their management. As his professional roots are in embedded software, he is leading the way to introduce Agile development practices to that challenging world. In 2011 James authored and published <a href="http://pragprog.com/titles/jgade" target="_blank">Test-Driven Development for Embedded C</a>. James was Agile before it was called Agile. He is one of the original authors of the Manifesto for Agile Software Development. He is a seasoned extreme programming coach and trainer, coaching his first XP team in 1999.</p>
       </div>
     </div>
 

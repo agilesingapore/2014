@@ -42,7 +42,7 @@ title: Agile Singapore 2014 Conferencd
   <div class="container text-center">
     <h1 class="page-header">Speakers</h1>
     <div class="row">
-      <div class="col-md-4">
+      <div class="col-md-3">
         <div class="thumbnail">
           <a href="speakers.html#linda_rising">
             <img src="img/speakers/linda_rising.jpg" width="256" height="256">
@@ -53,19 +53,19 @@ title: Agile Singapore 2014 Conferencd
           </div>
         </div>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-3">
         <div class="thumbnail">
           <a href="speakers.html#rachel_davies">
             <img src="img/speakers/rachel_davies.jpg" width="256" height="256">
           </a>
           <div class="caption">
             <h2>Rachel Davies</h2>
-            <p>Co-author of the first book on "Agile Coaching"</p>
+            <p>Co-author of the first book on Agile Coaching</p>
           </div>
         </div>
 
       </div>
-      <div class="col-md-4">
+      <div class="col-md-3">
         <div class="thumbnail">
           <a href="speakers.html#evelyn_tian">
             <img src="img/speakers/evelyn_tian.jpg" width="256" height="256">
@@ -76,10 +76,7 @@ title: Agile Singapore 2014 Conferencd
           </div>
         </div>
       </div>
-    </div>
-
-    <div class="row">
-      <div class="col-md-4">
+      <div class="col-md-3">
         <div class="thumbnail">
           <a href="speakers.html#kevlin_henney">
             <img src="img/speakers/kevlin_henney.jpg" width="256" height="256">
@@ -90,19 +87,22 @@ title: Agile Singapore 2014 Conferencd
           </div>
         </div>
       </div>
-      <div class="col-md-4">
+    </div>
+
+    <div class="row">
+      <div class="col-md-3">
         <div class="thumbnail">
           <a href="speakers.html#mfeathers">
             <img src="img/speakers/mfeathers.jpg" width="256" height="256">
           </a>
           <div class="caption">
             <h2>Michael Feathers</h2>
-            <p>Author of "Working Effectively with Legacy Code"</p>
+            <p>Author of Working Effectively with Legacy Code</p>
           </div>
         </div>
 
       </div>
-      <div class="col-md-4">
+      <div class="col-md-3">
         <div class="thumbnail">
           <a href="speakers.html#bas_vodde">
             <img src="img/speakers/bas_vodde.jpg" width="256" height="256">
@@ -112,6 +112,21 @@ title: Agile Singapore 2014 Conferencd
             <p>Co-author of LeSS (Large Scale Scrum) and Lean Product Development Expert</p>
           </div>
         </div>
+      </div>
+
+      <div class="col-md-3">
+        <div class="thumbnail">
+          <a href="speakers.html#grenning">
+            <img src="img/speakers/james_grenning.jpg" width="256" height="256">
+          </a>
+          <div class="caption">
+            <h2>James Grenning</h2>
+            <p>Author of TDD For Embedded C, coaching and training in technical excellence</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-3">
       </div>
     </div>
 
