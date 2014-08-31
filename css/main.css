@@ -86,6 +86,24 @@ p, li {
   margin: 0;
 }
 
+.programme .session h2 {
+  margin-top: 0;
+}
+
+.programme .page-header {
+  margin-top: 53px;
+  border: 0;
+}
+
+.programme .thumbnail .caption {
+  color: #eb1c24;
+}
+
+.programme .thumbnail {
+  border: 0;
+  background-color: transparent;
+}
+
 .organisers .thumbnail {
   border: 0;
 }

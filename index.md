@@ -20,6 +20,25 @@ title: Agile Singapore 2014 Conference
    </div>
 </div>
 
+<div class="programme">
+  <div class="container text-center">
+    <h1 class="page-header">Programme</h1>
+    <div class="row">
+      <div class="col-md-2">
+        <div class="thumbnail">
+          <a href="speakers.html#linda_rising"><img src="img/speakers/linda_rising.jpg" width="200"></a>
+          <div class="caption">Linda Rising</div>
+        </div>
+
+      </div>
+      <div class="session col-md-10 text-left">
+        <h2>Opening Keynote - The Power of an Agile mindset</h2>
+        <p>I've wondered for some time whether much of Agile's success was the result of the placebo effect, that is, good things happened because we believed they would. The placebo effect is a startling reminder of the power our minds have over our perceived reality. Now cognitive scientists tell us that this is only a small part of what our minds can do. Research has identified what I like to call "an agile mindset," an attitude that equates failure and problems with opportunities for learning, a belief that we can all improve over time, that our abilities are not fixed but evolve with effort. What's surprising about this research is the impact of an agile mindset on creativity and innovation, estimation, and collaboration in and out of the workplace. I'll relate what's known about this mindset and share some practical suggestions that can help all of us become even more agile.</p>
+      </div>
+
+    </div>
+  </div>
+</div>
 
 <div class="sponsors-brief">
   <div class="container text-center">
