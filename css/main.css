@@ -174,12 +174,16 @@ p, li {
 
 footer {
   background-color: #333333;
-  height:150px;
+  height:100px;
   color:white;
 }
 
 footer .container {
-  padding-top: 50px;
+  padding-top: 40px;
+}
+
+footer a {
+  color: white;
 }
 
 @media (max-width: 767px) {

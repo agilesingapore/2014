@@ -22,6 +22,7 @@ title: Agile Singapore 2014 Conference
 
 <div class="programme">
   <div class="container text-center">
+    <a name="programme"></a>
     <h1 class="page-header">Programme</h1>
     <div class="row">
       <div class="col-md-2">
@@ -69,7 +70,7 @@ title: Agile Singapore 2014 Conference
     </div>
     <div class="row">
       <div class="col-md-12">
-        <p>Interested in sponsoring? Please <a href="mailto:ask2014@agilesingapore.org">contact us</a> if you want to be featured here.</p>
+        <p style="margin-bottom:30px">Interested in sponsoring? Please <a href="mailto:ask2014@agilesingapore.org">contact us</a> if you want to be featured here.</p>
       </div>
     </div>
   </div>
