@@ -25,6 +25,17 @@ title: Agile Singapore 2014 - Speakers
           </div>
           <div class="col-md-3">
             <div class="thumbnail">
+              <a href="speakers.html#sheridan">
+                <img src="img/speakers/sheridan.jpg" width="256" height="256">
+              </a>
+              <div class="caption">
+                <h2>Richard Sheridan</h2>
+                <p>CEO and Chief Storyteller at Menlo Innovations; Author of Joy, Inc</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div class="thumbnail">
               <a href="speakers.html#rachel_davies">
                 <img src="img/speakers/rachel_davies.jpg" width="256" height="256">
               </a>
@@ -33,7 +44,6 @@ title: Agile Singapore 2014 - Speakers
                 <p>Co-author of the first book on Agile Coaching</p>
               </div>
             </div>
-
           </div>
           <div class="col-md-3">
             <div class="thumbnail">
@@ -46,6 +56,9 @@ title: Agile Singapore 2014 - Speakers
               </div>
             </div>
           </div>
+        </div>
+
+        <div class="row">
           <div class="col-md-3">
             <div class="thumbnail">
               <a href="speakers.html#kevlin_henney">
@@ -57,9 +70,7 @@ title: Agile Singapore 2014 - Speakers
               </div>
             </div>
           </div>
-        </div>
 
-        <div class="row">
           <div class="col-md-3">
             <div class="thumbnail">
               <a href="speakers.html#mfeathers">
@@ -70,8 +81,8 @@ title: Agile Singapore 2014 - Speakers
                 <p>Author of Working Effectively with Legacy Code</p>
               </div>
             </div>
-
           </div>
+
           <div class="col-md-3">
             <div class="thumbnail">
               <a href="speakers.html#bas_vodde">
@@ -95,9 +106,6 @@ title: Agile Singapore 2014 - Speakers
               </div>
             </div>
           </div>
-
-          <div class="col-md-3">
-          </div>
         </div>
 
       </div>
@@ -119,6 +127,23 @@ title: Agile Singapore 2014 - Speakers
           <a href="https://twitter.com/RisingLinda" target="_blank">@RisingLinda</a>
         </p>
         <p>Linda Rising is an independent consultant based in Nashville, Tennessee. Linda Rising has a Ph.D. from Arizona State University in the field of object-based design metrics and a background that includes university teaching and industry work in telecommunications, avionics, and tactical weapons systems. An internationally known presenter on topics related to patterns, retrospectives, the change process, and how your brain works, Linda is the author of a number of publications and four books: Design Patterns in Communications; The Pattern Almanac 2000, A Patterns Handbook; and, co-authored with Mary Lynn Manns, Fearless Change: Patterns for Introducing New Ideas.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-3">
+        <div class="thumbnail">
+          <img src="img/speakers/sheridan.jpg" width="200" height="200">
+        </div>
+      </div>
+      <div class="bio col-md-9">
+        <a name="sheridan"/></a>
+        <h2>Richard Sheridan</h2>
+        <p>
+          <a href="https://www.linkedin.com/in/menloprez" target="_blank"> LinkedIn</a> |
+          <a href="http://www.menloinnovations.com/joyinc" target="_blank">menloinnovations.com</a> |
+          <a href="https://twitter.com/menloprez" target="_blank">@menloprez</a>
+        </p>
+        <p>From kid programmer in 1971 to Forbes cover story in 2003, Joy, Inc. author Richard Sheridan has never shied from challenges, opportunities nor the limelight. Sheridan and his software design and development team at Menlo Innovations didn't invent a new culture, but copied an old one... Edison's Menlo Park New Jersey lab. Henry Ford's recreation of the Menlo Park Lab in Greenfield Village was a childhood inspiration! Some call it agile, some call it lean... Sheridan and his team call it joyful. And it produces results, business and otherwise. Five Inc. magazine revenue growth awards, invites to the White House, speaking engagements around the nation, numerous articles and culture awards and so much interest they are doing a tour a day of the Menlo Software Factory™. </p>
       </div>
     </div>
     <div class="row">
