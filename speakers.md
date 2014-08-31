@@ -7,22 +7,119 @@ title: Agile Singapore 2014 - Speakers
 <div class="speakers">
   <div class="container text-center">
     <h1 class="page-header">Speakers</h1>
-      <div class="row">
-        <div class="col-md-3">
-          <div class="thumbnail">
-            <img src="img/speakers/linda_rising.jpg" width="200" height="200">
+
+
+    <div class="speakers-brief">
+      <div class="container text-center">
+        <div class="row">
+          <div class="col-md-3">
+            <div class="thumbnail">
+              <a href="speakers.html#linda_rising">
+                <img src="img/speakers/linda_rising.jpg" width="256" height="256">
+              </a>
+              <div class="caption">
+                <h2>Linda Rising</h2>
+                <p>Co-author of "Fearless Change" and international speaker relating to patterns</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div class="thumbnail">
+              <a href="speakers.html#rachel_davies">
+                <img src="img/speakers/rachel_davies.jpg" width="256" height="256">
+              </a>
+              <div class="caption">
+                <h2>Rachel Davies</h2>
+                <p>Co-author of the first book on Agile Coaching</p>
+              </div>
+            </div>
+
+          </div>
+          <div class="col-md-3">
+            <div class="thumbnail">
+              <a href="speakers.html#evelyn_tian">
+                <img src="img/speakers/evelyn_tian.jpg" width="256" height="256">
+              </a>
+              <div class="caption">
+                <h2>Evelyn Tian</h2>
+                <p>Lean and Agile Head Coach for Ericsson Communications Asia-Pacific</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div class="thumbnail">
+              <a href="speakers.html#kevlin_henney">
+                <img src="img/speakers/kevlin_henney.jpg" width="256" height="256">
+              </a>
+              <div class="caption">
+                <h2>Kevlin Henney</h2>
+                <p>Editor of 97 Things Every Programmer Should Know</p>
+              </div>
+            </div>
           </div>
         </div>
-        <div class="bio col-md-9">
-          <a name="linda_rising"></a>
-          <h2>Linda Rising</h2>
-          <p>
-            <a href="https://www.linkedin.com/pub/linda-rising/0/273/747" target="_blank"> LinkedIn</a> |
-            <a href="http://lindarising.org" target="_blank">lindarising.org</a> |
-            <a href="https://twitter.com/RisingLinda" target="_blank">@RisingLinda</a>
-          </p>
-          <p>Linda Rising is an independent consultant based in Nashville, Tennessee. Linda Rising has a Ph.D. from Arizona State University in the field of object-based design metrics and a background that includes university teaching and industry work in telecommunications, avionics, and tactical weapons systems. An internationally known presenter on topics related to patterns, retrospectives, the change process, and how your brain works, Linda is the author of a number of publications and four books: Design Patterns in Communications; The Pattern Almanac 2000, A Patterns Handbook; and, co-authored with Mary Lynn Manns, Fearless Change: Patterns for Introducing New Ideas.</p>
+
+        <div class="row">
+          <div class="col-md-3">
+            <div class="thumbnail">
+              <a href="speakers.html#mfeathers">
+                <img src="img/speakers/mfeathers.jpg" width="256" height="256">
+              </a>
+              <div class="caption">
+                <h2>Michael Feathers</h2>
+                <p>Author of Working Effectively with Legacy Code</p>
+              </div>
+            </div>
+
+          </div>
+          <div class="col-md-3">
+            <div class="thumbnail">
+              <a href="speakers.html#bas_vodde">
+                <img src="img/speakers/bas_vodde.jpg" width="256" height="256">
+              </a>
+              <div class="caption">
+                <h2>Bas Vodde</h2>
+                <p>Co-author of LeSS (Large Scale Scrum) and Lean Product Development Expert</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-3">
+            <div class="thumbnail">
+              <a href="speakers.html#grenning">
+                <img src="img/speakers/james_grenning.jpg" width="256" height="256">
+              </a>
+              <div class="caption">
+                <h2>James Grenning</h2>
+                <p>Author of TDD For Embedded C, coaching and training in technical excellence</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-3">
+          </div>
         </div>
+
+      </div>
+    </div>
+
+
+    <div class="row">
+      <div class="col-md-3">
+        <div class="thumbnail">
+          <img src="img/speakers/linda_rising.jpg" width="200" height="200">
+        </div>
+      </div>
+      <div class="bio col-md-9">
+        <a name="linda_rising"/></a>
+        <h2>Linda Rising</h2>
+        <p>
+          <a href="https://www.linkedin.com/pub/linda-rising/0/273/747" target="_blank"> LinkedIn</a> |
+          <a href="http://lindarising.org" target="_blank">lindarising.org</a> |
+          <a href="https://twitter.com/RisingLinda" target="_blank">@RisingLinda</a>
+        </p>
+        <p>Linda Rising is an independent consultant based in Nashville, Tennessee. Linda Rising has a Ph.D. from Arizona State University in the field of object-based design metrics and a background that includes university teaching and industry work in telecommunications, avionics, and tactical weapons systems. An internationally known presenter on topics related to patterns, retrospectives, the change process, and how your brain works, Linda is the author of a number of publications and four books: Design Patterns in Communications; The Pattern Almanac 2000, A Patterns Handbook; and, co-authored with Mary Lynn Manns, Fearless Change: Patterns for Introducing New Ideas.</p>
+      </div>
     </div>
     <div class="row">
       <div class="col-md-3">
