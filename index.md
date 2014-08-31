@@ -26,7 +26,7 @@ title: Agile Singapore 2014 Conference
     <div class="row">
       <div class="col-md-2">
         <div class="thumbnail">
-          <a href="speakers.html#linda_rising"><img src="img/speakers/linda_rising.jpg" width="200"></a>
+          <a href="speakers.html#linda_rising"><img src="img/speakers/linda_rising.jpg"  class="img-circle" width="200"></a>
           <div class="caption">Linda Rising</div>
         </div>
       </div>
@@ -38,7 +38,7 @@ title: Agile Singapore 2014 Conference
     <div class="row">
       <div class="col-md-2">
         <div class="thumbnail">
-          <a href="speakers.html#sheridan"><img src="img/speakers/sheridan.jpg" width="200"></a>
+          <a href="speakers.html#sheridan"><img src="img/speakers/sheridan.jpg" class="img-circle" width="200"></a>
           <div class="caption">Richard Sheridan</div>
         </div>
       </div>

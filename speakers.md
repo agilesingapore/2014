@@ -15,7 +15,7 @@ title: Agile Singapore 2014 - Speakers
           <div class="col-md-3">
             <div class="thumbnail">
               <a href="speakers.html#linda_rising">
-                <img src="img/speakers/linda_rising.jpg" width="256" height="256">
+                <img src="img/speakers/linda_rising.jpg" class="img-circle" width="256" height="256">
               </a>
               <div class="caption">
                 <h2>Linda Rising</h2>
@@ -26,7 +26,7 @@ title: Agile Singapore 2014 - Speakers
           <div class="col-md-3">
             <div class="thumbnail">
               <a href="speakers.html#sheridan">
-                <img src="img/speakers/sheridan.jpg" width="256" height="256">
+                <img src="img/speakers/sheridan.jpg" class="img-circle"  width="256" height="256">
               </a>
               <div class="caption">
                 <h2>Richard Sheridan</h2>
@@ -37,7 +37,7 @@ title: Agile Singapore 2014 - Speakers
           <div class="col-md-3">
             <div class="thumbnail">
               <a href="speakers.html#rachel_davies">
-                <img src="img/speakers/rachel_davies.jpg" width="256" height="256">
+                <img src="img/speakers/rachel_davies.jpg" class="img-circle"  width="256" height="256">
               </a>
               <div class="caption">
                 <h2>Rachel Davies</h2>
@@ -48,7 +48,7 @@ title: Agile Singapore 2014 - Speakers
           <div class="col-md-3">
             <div class="thumbnail">
               <a href="speakers.html#evelyn_tian">
-                <img src="img/speakers/evelyn_tian.jpg" width="256" height="256">
+                <img src="img/speakers/evelyn_tian.jpg" class="img-circle"  width="256" height="256">
               </a>
               <div class="caption">
                 <h2>Evelyn Tian</h2>
@@ -62,7 +62,7 @@ title: Agile Singapore 2014 - Speakers
           <div class="col-md-3">
             <div class="thumbnail">
               <a href="speakers.html#kevlin_henney">
-                <img src="img/speakers/kevlin_henney.jpg" width="256" height="256">
+                <img src="img/speakers/kevlin_henney.jpg" class="img-circle"  width="256" height="256">
               </a>
               <div class="caption">
                 <h2>Kevlin Henney</h2>
@@ -74,7 +74,7 @@ title: Agile Singapore 2014 - Speakers
           <div class="col-md-3">
             <div class="thumbnail">
               <a href="speakers.html#mfeathers">
-                <img src="img/speakers/mfeathers.jpg" width="256" height="256">
+                <img src="img/speakers/mfeathers.jpg" class="img-circle"  width="256" height="256">
               </a>
               <div class="caption">
                 <h2>Michael Feathers</h2>
@@ -86,7 +86,7 @@ title: Agile Singapore 2014 - Speakers
           <div class="col-md-3">
             <div class="thumbnail">
               <a href="speakers.html#bas_vodde">
-                <img src="img/speakers/bas_vodde.jpg" width="256" height="256">
+                <img src="img/speakers/bas_vodde.jpg" class="img-circle"  width="256" height="256">
               </a>
               <div class="caption">
                 <h2>Bas Vodde</h2>
@@ -98,7 +98,7 @@ title: Agile Singapore 2014 - Speakers
           <div class="col-md-3">
             <div class="thumbnail">
               <a href="speakers.html#grenning">
-                <img src="img/speakers/james_grenning.jpg" width="256" height="256">
+                <img src="img/speakers/james_grenning.jpg" class="img-circle"  width="256" height="256">
               </a>
               <div class="caption">
                 <h2>James Grenning</h2>
