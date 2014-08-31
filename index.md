@@ -20,24 +20,6 @@ title: Agile Singapore 2014 Conference
    </div>
 </div>
 
-<div class="title-sponsor">
-	<div class="container text-center">
-		<h1 class="page-header">Title Sponsors</h1>
-		<div class="row">
-			<div class="col-md-6">
-				<div class="thumbnail">
-					<a href="http://odd-e.com" target="_blank"><img src="img/sponsors/Odd-e.png" width="200" height="200"></a>
-				</div>
-			</div>
-			<div class="col-md-6">
-				<div class="thumbnail">
-					<a href="http://www.rallydev.com/asia" target="_blank"><img src="img/sponsors/Rally.png" width="200" height="200"></a>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-
 <div class="speakers-brief">
   <div class="container text-center">
     <h1 class="page-header">Speakers</h1>
@@ -135,6 +117,28 @@ title: Agile Singapore 2014 Conference
 
 <div class="sponsors-brief">
   <div class="container text-center">
-    <p>Interested in sponsoring? Please <a href="mailto:ask2014@agilesingapore.org">contact us</a> if you want to be featured here.</p>
+    <h1 class="page-header">Title Sponsors</h1>
+    <div class="row">
+      <div class="col-md-3"></div>
+      <div class="col-md-3">
+        <div class="thumbnail">
+          <a href="http://odd-e.com" target="_blank"><img src="img/sponsors/Odd-e.png" width="130"></a>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="thumbnail">
+          <a href="http://www.rallydev.com/asia" target="_blank"><img src="img/sponsors/Rally.png" width="150"></a>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <p>Interested in sponsoring? Please <a href="mailto:ask2014@agilesingapore.org">contact us</a> if you want to be featured here.</p>
+      </div>
+    </div>
+
+
+
+
   </div>
 </div>
