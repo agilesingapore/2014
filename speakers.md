@@ -174,5 +174,22 @@ title: Agile Singapore 2014 - Speakers
       </div>
     </div>
 
+    <div class="row">
+      <div class="col-md-3">
+        <div class="thumbnail">
+          <img src="img/speakers/jutta_eckstein.jpg" width="200" height="200">
+        </div>
+      </div>
+      <div class="bio col-md-9">
+        <a name="jutta_eckstein"></a>
+        <h2>Jutta Eckstein</h2>
+        <p>
+            <a href="http://de.linkedin.com/pub/jutta-eckstein/0/83/486" target="_blank"> LinkedIn</a> |
+            <a href="http://jeckstein.com" target="_blank">jeckstein.com</a> 
+        </p>
+        <p>Jutta Eckstein works as an independent coach, consultant, and trainer. She holds a M.A. in Business Coaching & Change Management, a Dipl.Eng. in Product-Engineering, and a B.A. in Education. She has helped many teams and organizations worldwide to make an Agile transition. She has a unique experience in applying Agile processes within medium-sized to large distributed mission-critical projects. She has published her experience in her books 'Agile Software Development in the Large', 'Agile Software Development with Distributed Teams', 'Retrospectives for Organizational Change', and together with Johanna Rothman 'Diving for Hidden Treasures: Finding the Real Value in your Project Portfolio’. </p>
+      </div>
+    </div>
+
   </div>
 </div>

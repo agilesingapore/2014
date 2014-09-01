@@ -96,6 +96,25 @@
 		In this talk we revisit the original premise and definition, and look at how this approach to development can still teach us something surprising and new.</p>
       </div>
     </div>
+    <div class="row">
+      <div class="col-md-2">
+        <div class="thumbnail">
+          <a href="speakers.html#jutta_eckstein"><img src="img/speakers/jutta_eckstein.jpg" class="img-circle" width="200"></a>
+          <div class="caption">Jutta Eckstein</div>
+        </div>
+      </div>
+      <div class="session col-md-10 text-left">
+        <h2>Overcoming Cultural Differences by Focusing on Similarities</h2>
+        <p>One of the challenges global teams are facing, is overcoming cultural 
+differences. Yet, these differences have their origin not only in geography
+and language, but also in strategies, politics, values and history. A company,
+no less than the broader society, shapes a culture that influences its 
+employees behavior. A distributed team needs to leverage this and jointly 
+develop a project culture and keep the project history alive for emphasizing 
+the common culture. This session points out techniques that have helped to
+create a common culture in different global projects I have been working on.</p>
+      </div>
+    </div>
     <p style="margin-top:30px;margin-bottom:30px">The above is a preview and there'll be more sessions to come.</p>
   </div>
 </div>
