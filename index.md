@@ -39,13 +39,31 @@ title: Agile Singapore 2014 Conference
     <div class="row">
       <div class="col-md-2">
         <div class="thumbnail">
+          <a href="speakers.html#dave_snowden"><img src="img/speakers/dave_snowden.jpg"  class="img-circle" width="200" height="200"></a>
+          <div class="caption">Dave Snowden</div>
+        </div>
+      </div>
+      <div class="session col-md-10 text-left">
+        <h2>Opening Keynote: Enabling the organisation as a complex eco-system</h2>
+        <p>This presentation will take an ecological approach to understanding how business functions and IT capability can better interact with each other.  It will argue for a substantial shift away from the predominantly manufacturing and linear metaphors that underly code development, user requirements capture and project management.  Instead we need to see technology provision as a service relationship which can both deliver core needs, but can also joining explorer the rapidly emerging opportunities offered by technology in the modern world.  It will focus on how we understand the Implicit Whys of customer and employee needs not just the Explicit Whats.  As such it will challenge some of the common assumptions behind big data and demonstrate how human sensor networks (whole of workforce engagement for example) can transform the enterprise.  For the Agile community that means developing pre-Scrum capability, for the wider business it means understanding how to co-evolve unstated needs with the rapidly changing capabilities of technology.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-2">
+        <div class="thumbnail">
           <a href="speakers.html#sheridan"><img src="img/speakers/sheridan.jpg" class="img-circle" width="200"></a>
           <div class="caption">Richard Sheridan</div>
         </div>
       </div>
       <div class="session col-md-10 text-left">
         <h2>Closing Keynote: Build a Workplace People Love - Just add Joy</h2>
-        <p>Create an intentional team culture focused on the business value of joy and unleash the human energy and the results you always knew were possible.</p>
+        <p>Joy in the context of business sounds ridiculous, and would be except for one important glaring fact: it produces measurable, repeatable, and sustainable results. Learn why from the founder, CEO, and Cheif Storyteller and author Richard Sheridan. <br><br>
+
+        Within an industry known for missed deadlines, poor quality, "death march" processes and user experiences that requireDummies books to explain, this talk will deliver the hope of a better way. Attendees who attend agile and scrum conferences are searching for  tangible examples from which to sample and learn. This talk will deliver inspiration and practical takeaways.<br><br>
+
+        Agile methodologies practiced The Menlo Way™ since 2001 are both joyful and disciplined. In this session, Sheridan will share from him personal experiences about the effects of physical space on team energy and engagement, the benefit of simple paper-based project management tools to foster better sponsor relationships, the power of systematic pairing in creating a learning organization that render towers of knowledge and Brooks' Law quaint challenges of the past.<br><br>
+
+        Sheridan will discuss the cultural norms that remove fear and encourage experimentation; you'll hear about the elimination of meetings and the rituals and ceremonies that replace them. Learning Objectives: 1) Design a culture with the right team and leadership in a learning environment; 2) create client involvement; 3) define your environment by joy in an open and collaborative culture and 4) create delightful user experiences.</p>
       </div>
     </div>
     <p style="margin-bottom:30px">The above is a preview and there'll be more sessions to come.</p>

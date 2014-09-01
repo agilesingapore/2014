@@ -8,110 +8,6 @@ title: Agile Singapore 2014 - Speakers
   <div class="container text-center">
     <h1 class="page-header">Speakers</h1>
 
-
-    <div class="speakers-brief">
-      <div class="container text-center">
-        <div class="row">
-          <div class="col-md-3">
-            <div class="thumbnail">
-              <a href="speakers.html#linda_rising">
-                <img src="img/speakers/linda_rising.jpg" class="img-circle" width="256" height="256">
-              </a>
-              <div class="caption">
-                <h2>Linda Rising</h2>
-                <p>Co-author of "Fearless Change" and international speaker relating to patterns</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-3">
-            <div class="thumbnail">
-              <a href="speakers.html#sheridan">
-                <img src="img/speakers/sheridan.jpg" class="img-circle"  width="256" height="256">
-              </a>
-              <div class="caption">
-                <h2>Richard Sheridan</h2>
-                <p>CEO and Chief Storyteller at Menlo Innovations; Author of Joy, Inc</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-3">
-            <div class="thumbnail">
-              <a href="speakers.html#rachel_davies">
-                <img src="img/speakers/rachel_davies.jpg" class="img-circle"  width="256" height="256">
-              </a>
-              <div class="caption">
-                <h2>Rachel Davies</h2>
-                <p>Co-author of the first book on Agile Coaching</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-3">
-            <div class="thumbnail">
-              <a href="speakers.html#evelyn_tian">
-                <img src="img/speakers/evelyn_tian.jpg" class="img-circle"  width="256" height="256">
-              </a>
-              <div class="caption">
-                <h2>Evelyn Tian</h2>
-                <p>Lean and Agile Head Coach for Ericsson Communications Asia-Pacific</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="row">
-          <div class="col-md-3">
-            <div class="thumbnail">
-              <a href="speakers.html#kevlin_henney">
-                <img src="img/speakers/kevlin_henney.jpg" class="img-circle"  width="256" height="256">
-              </a>
-              <div class="caption">
-                <h2>Kevlin Henney</h2>
-                <p>Editor of 97 Things Every Programmer Should Know</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-3">
-            <div class="thumbnail">
-              <a href="speakers.html#mfeathers">
-                <img src="img/speakers/mfeathers.jpg" class="img-circle"  width="256" height="256">
-              </a>
-              <div class="caption">
-                <h2>Michael Feathers</h2>
-                <p>Author of Working Effectively with Legacy Code</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-3">
-            <div class="thumbnail">
-              <a href="speakers.html#bas_vodde">
-                <img src="img/speakers/bas_vodde.jpg" class="img-circle"  width="256" height="256">
-              </a>
-              <div class="caption">
-                <h2>Bas Vodde</h2>
-                <p>Co-author of LeSS (Large Scale Scrum) and Lean Product Development Expert</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-3">
-            <div class="thumbnail">
-              <a href="speakers.html#grenning">
-                <img src="img/speakers/james_grenning.jpg" class="img-circle"  width="256" height="256">
-              </a>
-              <div class="caption">
-                <h2>James Grenning</h2>
-                <p>Author of TDD For Embedded C, coaching and training in technical excellence</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </div>
-
-
     <div class="row">
       <div class="col-md-3">
         <div class="thumbnail">
@@ -128,6 +24,27 @@ title: Agile Singapore 2014 - Speakers
         </p>
         <p>Linda Rising is an independent consultant based in Nashville, Tennessee. Linda Rising has a Ph.D. from Arizona State University in the field of object-based design metrics and a background that includes university teaching and industry work in telecommunications, avionics, and tactical weapons systems. An internationally known presenter on topics related to patterns, retrospectives, the change process, and how your brain works, Linda is the author of a number of publications and four books: Design Patterns in Communications; The Pattern Almanac 2000, A Patterns Handbook; and, co-authored with Mary Lynn Manns, Fearless Change: Patterns for Introducing New Ideas.</p>
       </div>
+    </div>
+    <div class="row">
+      <div class="col-md-3">
+        <div class="thumbnail">
+          <img src="img/speakers/dave_snowden.jpg" width="200" height="200">
+        </div>
+      </div>
+      <div class="bio col-md-9">
+        <a name="dave_snowden"/></a>
+        <h2>Dave Snowden</h2>
+        <p>
+          <a href="http://uk.linkedin.com/pub/dave-snowden/0/3b/2a9" target="_blank"> LinkedIn</a> |
+          <a href="http://cognitive-edge.com/" target="_blank">cognitive-edge.com</a> |
+          <a href="https://twitter.com/snowded" target="_blank">@Snowded</a>
+        </p>
+        <p>Dave Snowden is the founder and chief scientific officer of Cognitive Edge.  His work is international in nature and covers government and industry looking at complex issues relating to strategy, organisational decision making and decision making.  He has pioneered a science based approach to organisations drawing on anthropology, neuroscience and complex adaptive systems theory.  He is a popular and passionate keynote speaker on a range of subjects, and is well known for his pragmatic cynicism and iconoclastic style. <br>
+        He holds visiting Chairs at the Universities of Pretoria and Hong Kong Polytechnic University as well as a visiting fellowship at the University of Warwick.  He is a senior fellow at the Institute of Defense and Strategic Studies at Nanyang University and the Civil Service College in Singapore.  His paper with Boone on Leadership was the cover article for the Harvard Business Review in November 2007 and also won the Academy of Management aware for the best practitioner paper in the same year.  He has previously won a special award from the Academy for originality in his work on knowledge management. He is a editorial board member of several academic and practitioner journals in the field of knowledge management and is an Editor in Chief of E:CO.  In 2006 he was Director of the EPSRC (UK) research programme on emergence and in 2007 was appointed to an NSF (US) review panel on complexity science research. <br>
+        He previously worked for IBM where he was a Director of the Institution for Knowledge Management and founded the Cynefin Centre for Organisational Complexity; during that period he was selected by IBM as one of six on-demand thinkers for a world wide advertising campaign. Prior to that he worked in a range of strategic and management roles in the service sector. <br>
+        His company Cognitive Edge exists to integrate academic thinking with practice in organisations throughout the world and operates on a network model working with Academics, Government, Commercial Organisations, NGOs and Independent Consultants.  He is also the main designer of the SenseMaker® software suite, originally developed in the field of counter terrorism and now being actively deployed in both Government and Industry to handle issues of impact measurement, customer/employee insight, narrative based knowledge management, strategic foresight and risk management. </p>
+      </div>
+      <div class="col-md-12">&nbsp;</div>
     </div>
     <div class="row">
       <div class="col-md-3">
