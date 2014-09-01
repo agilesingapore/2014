@@ -31,7 +31,7 @@ title: Agile Singapore 2014 - Speakers
           <img src="img/speakers/dave_snowden.jpg" width="200" height="200">
         </div>
       </div>
-      <div class="bio col-md-9">
+      <div class="bio col-md-9" id="accordion">
         <a name="dave_snowden"/></a>
         <h2>Dave Snowden</h2>
         <p>
@@ -39,12 +39,16 @@ title: Agile Singapore 2014 - Speakers
           <a href="http://cognitive-edge.com/" target="_blank">cognitive-edge.com</a> |
           <a href="https://twitter.com/snowded" target="_blank">@Snowded</a>
         </p>
-        <p>Dave Snowden is the founder and chief scientific officer of Cognitive Edge.  His work is international in nature and covers government and industry looking at complex issues relating to strategy, organisational decision making and decision making.  He has pioneered a science based approach to organisations drawing on anthropology, neuroscience and complex adaptive systems theory.  He is a popular and passionate keynote speaker on a range of subjects, and is well known for his pragmatic cynicism and iconoclastic style. <br>
+        <p>Dave Snowden is the founder and chief scientific officer of Cognitive Edge.  His work is international in nature and covers government and industry looking at complex issues relating to strategy, organisational decision making and decision making.  He has pioneered a science based approach to organisations drawing on anthropology, neuroscience and complex adaptive systems theory.  He is a popular and passionate keynote speaker on a range of subjects, and is well known for his pragmatic cynicism and iconoclastic style.
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" >
+          ...
+        </a>
+        </p>
+        <p id="collapseOne" class="panel-collapse collapse">
         He holds visiting Chairs at the Universities of Pretoria and Hong Kong Polytechnic University as well as a visiting fellowship at the University of Warwick.  He is a senior fellow at the Institute of Defense and Strategic Studies at Nanyang University and the Civil Service College in Singapore.  His paper with Boone on Leadership was the cover article for the Harvard Business Review in November 2007 and also won the Academy of Management aware for the best practitioner paper in the same year.  He has previously won a special award from the Academy for originality in his work on knowledge management. He is a editorial board member of several academic and practitioner journals in the field of knowledge management and is an Editor in Chief of E:CO.  In 2006 he was Director of the EPSRC (UK) research programme on emergence and in 2007 was appointed to an NSF (US) review panel on complexity science research. <br>
         He previously worked for IBM where he was a Director of the Institution for Knowledge Management and founded the Cynefin Centre for Organisational Complexity; during that period he was selected by IBM as one of six on-demand thinkers for a world wide advertising campaign. Prior to that he worked in a range of strategic and management roles in the service sector. <br>
-        His company Cognitive Edge exists to integrate academic thinking with practice in organisations throughout the world and operates on a network model working with Academics, Government, Commercial Organisations, NGOs and Independent Consultants.  He is also the main designer of the SenseMaker® software suite, originally developed in the field of counter terrorism and now being actively deployed in both Government and Industry to handle issues of impact measurement, customer/employee insight, narrative based knowledge management, strategic foresight and risk management. </p>
+        His company Cognitive Edge exists to integrate academic thinking with practice in organisations throughout the world and operates on a network model working with Academics, Government, Commercial Organisations, NGOs and Independent Consultants.  He is also the main designer of the SenseMaker® software suite, originally developed in the field of counter terrorism and now being actively deployed in both Government and Industry to handle issues of impact measurement, customer/employee insight, narrative based knowledge management, strategic foresight and risk management. <br><br></p>
       </div>
-      <div class="col-md-12">&nbsp;</div>
     </div>
     <div class="row">
       <div class="col-md-3">
