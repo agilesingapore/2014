@@ -44,6 +44,58 @@
         Sheridan will discuss the cultural norms that remove fear and encourage experimentation; you'll hear about the elimination of meetings and the rituals and ceremonies that replace them. Learning Objectives: 1) Design a culture with the right team and leadership in a learning environment; 2) create client involvement; 3) define your environment by joy in an open and collaborative culture and 4) create delightful user experiences.</p>
       </div>
     </div>
+    <div class="row">
+      <div class="col-md-2">
+        <div class="thumbnail">
+          <a href="speakers.html#grenning"><img src="img/speakers/james_grenning.jpg" class="img-circle" width="200"></a>
+          <div class="caption">James Grenning</div>
+        </div>
+      </div>
+      <div class="session col-md-10 text-left">
+        <h2>You Can’t be Great without Technical Excellence</h2>
+        <p>Technical excellence is more than two week sprints, a burn-down chart and a daily stand-up meeting. The basic rules of Agile or Scrum are not an end in themselves, but rather a staring point based upon principles and practices that allow and encourage teams to adopt, adapt, and refine their craft.  Unfortunately, it may seem to the technical people that agile is just another micro-management approach.<br>
+		Extreme Programming with its provocative name, got people’s attention in 1999.  It is based on sound technical practices.  Why do so few agile teams employ engineering practices that support the tight iterative cycles of Agile and Scrum?  The founders of Scrum expected the continuous improvement cycle to pull engineering practices into teams once the cycle revealed the problems of poor product quality, hard to change code, wasted time debugging, long stabilization efforts and the ever growing burden of manual test.<br>
+		In this talk we’ll look at why the technical practices of test-driven development, refactoring, continuous design, clean code and automated testing can help you and your organization be great.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-2">
+        <div class="thumbnail">
+          <a href="speakers.html#mfeathers"><img src="img/speakers/mfeathers.jpg" class="img-circle" width="200"></a>
+          <div class="caption">Michael Feathers</div>
+        </div>
+      </div>
+      <div class="session col-md-10 text-left">
+        <h2>Constructive Action in the Face Of Technical Debt</h2>
+        <p>When we plan and manage projects, we are seldom given a blank page. We have staffing and scheduling concerns, and a variety of other issues to contend with, but below each of them is the one thing that affects completion and effort more than anything else: the quality of the existing code.<br>
+		In this talk, Michael Feathers will outline managerial and team strategies for moving projects forward in the context of code that is hard to change.  We'll talk about how to manage risk, how to create new opportunities moving forward, and how to work in ways which avoid to creation of further problems in large existing code bases.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-2">
+        <div class="thumbnail">
+          <a href="speakers.html#evelyn_tian"><img src="img/speakers/evelyn_tian.jpg" class="img-circle" width="200"></a>
+          <div class="caption">Evelyn Tian</div>
+        </div>
+      </div>
+      <div class="session col-md-10 text-left">
+        <h2>Journey to Agility for a Large Scale Telecom System - Reflections from the road</h2>
+        <p>Since the birth of Agile Manifesto, many companies have started their Agile transformation journeys. Working as an Agile coach, I have had the honor to help out and to learn. In this session, I will share some key learning, challenges and experience from a large scale legacy telecom product during its Agile transformation journey.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-2">
+        <div class="thumbnail">
+          <a href="speakers.html#kevlin_henney"><img src="img/speakers/kevlin_henney.jpg" class="img-circle" width="200"></a>
+          <div class="caption">Kevlin Henney</div>
+        </div>
+      </div>
+      <div class="session col-md-10 text-left">
+        <h2>Worse Is Better, for Better or for Worse</h2>
+        <p>Nearly two-and-a-half decades ago, Richard Gabriel proposed the idea of “Worse Is Better” to explain why some things that are designed to be pure and perfect are eclipsed by solutions that are seemingly compromised and imperfect. This is not simply the observation that things should be better but are not, or that flawed and ill-considered solutions are superior to those created with intention, but that many solutions that are narrow and incomplete work out better than the solutions conceived of as being comprehensive and all encompassing. Whether it is programming languages, operating systems, development processes or development practices, we find many examples of this in software development, some more provocative and surprising than others. <br>
+		In this talk we revisit the original premise and definition, and look at how this approach to development can still teach us something surprising and new.</p>
+      </div>
+    </div>
     <p style="margin-top:30px;margin-bottom:30px">The above is a preview and there'll be more sessions to come.</p>
   </div>
 </div>
