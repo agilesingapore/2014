@@ -84,24 +84,6 @@ title: Agile Singapore 2014 - Speakers
         <p>Rachel Davies is co-author of the first “Agile Coaching” book and works in UK as Agile Coach at Unruly Media, the leading global platform for social video marketing. Internationally recognized and presenting at industry conferences worldwide, Rachel started out working as a software developer and has been an agile practitioner since 2000 applying a range of agile methods including XP, SCRUM, Lean/Kanban, and DSDM. Follow her <a href="http://twitter.com/rachelcdavies" target="_blank">@rachelcdavies</a></p>
       </div>
     </div>
-
-    <div class="row">
-      <div class="col-md-3">
-        <div class="thumbnail">
-          <img src="img/speakers/evelyn_tian.jpg" width="200" height="200">
-        </div>
-      </div>
-      <div class="bio col-md-9">
-        <a name="evelyn_tian"></a>
-        <h2>Evelyn Tian</h2>
-        <p>
-            <a href="https://cn.linkedin.com/pub/evelyn-tian/1/237/7b3" target="_blank">LinkedIn</a> |
-            <a href="http://www.computer.org/portal/web/software/advisory" target="_blank">IEEE Software Advisory Board</a>
-        </p>
-        <p>Evelyn Tian is the Lean and Agile Head Coach of Ericsson Communications in the Asia-Pacific region. She has been passionately working with Lean and Agile transformation since 2009. She coaches organizations, management, development teams and individuals at both strategic and hands-on levels, with strong interests and unique insights on agile leadership, coaching, technical practices and large scale system transformation. She truly believes that Lean and Agile enhances the way products are developed and services are fulfilled. Evelyn is a member of <a href="http://www.computer.org/portal/web/software/advisory" target="_blank">IEEE Software Advisory Board</a>, an ICC Certified Master Coach, Executive Coach and Performance Coach. She draws great pleasure from helping individuals and companies continuously improve, and generating positive energy.</p>
-      </div>
-    </div>
-
     <div class="row">
       <div class="col-md-3">
         <div class="thumbnail">
@@ -123,6 +105,23 @@ title: Agile Singapore 2014 - Speakers
     <div class="row">
       <div class="col-md-3">
         <div class="thumbnail">
+          <img src="img/speakers/evelyn_tian.jpg" width="200" height="200">
+        </div>
+      </div>
+      <div class="bio col-md-9">
+        <a name="evelyn_tian"></a>
+        <h2>Evelyn Tian</h2>
+        <p>
+            <a href="https://cn.linkedin.com/pub/evelyn-tian/1/237/7b3" target="_blank">LinkedIn</a> |
+            <a href="http://www.computer.org/portal/web/software/advisory" target="_blank">IEEE Software Advisory Board</a>
+        </p>
+        <p>Evelyn Tian is the Lean and Agile Head Coach of Ericsson Communications in the Asia-Pacific region. She has been passionately working with Lean and Agile transformation since 2009. She coaches organizations, management, development teams and individuals at both strategic and hands-on levels, with strong interests and unique insights on agile leadership, coaching, technical practices and large scale system transformation. She truly believes that Lean and Agile enhances the way products are developed and services are fulfilled. Evelyn is a member of <a href="http://www.computer.org/portal/web/software/advisory" target="_blank">IEEE Software Advisory Board</a>, an ICC Certified Master Coach, Executive Coach and Performance Coach. She draws great pleasure from helping individuals and companies continuously improve, and generating positive energy.</p>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-3">
+        <div class="thumbnail">
           <img src="img/speakers/mfeathers.jpg" width="200" height="200">
         </div>
       </div>
@@ -137,6 +136,24 @@ title: Agile Singapore 2014 - Speakers
         <p>Michael Feathers is the founder and Director of R7K Research & Conveyance, a company specializing in software and organization design. Prior to forming R7K, Michael was the Chief Scientist of Obtiva and a consultant with Object Mentor International. Over the years, Michael has spent a great deal of time helping teams after design over time in code bases. Michael is also the author of the book Working Effectively with Legacy Code (Prentice Hall, 2004).</p>
       </div>
     </div>
+
+    <div class="row">
+      <div class="col-md-3">
+        <div class="thumbnail">
+          <img src="img/speakers/jutta_eckstein.jpg" width="200" height="200">
+        </div>
+      </div>
+      <div class="bio col-md-9">
+        <a name="jutta_eckstein"></a>
+        <h2>Jutta Eckstein</h2>
+        <p>
+            <a href="http://de.linkedin.com/pub/jutta-eckstein/0/83/486" target="_blank"> LinkedIn</a> |
+            <a href="http://jeckstein.com" target="_blank">jeckstein.com</a> 
+        </p>
+        <p>Jutta Eckstein works as an independent coach, consultant, and trainer. She holds a M.A. in Business Coaching & Change Management, a Dipl.Eng. in Product-Engineering, and a B.A. in Education. She has helped many teams and organizations worldwide to make an Agile transition. She has a unique experience in applying Agile processes within medium-sized to large distributed mission-critical projects. She has published her experience in her books 'Agile Software Development in the Large', 'Agile Software Development with Distributed Teams', 'Retrospectives for Organizational Change', and together with Johanna Rothman 'Diving for Hidden Treasures: Finding the Real Value in your Project Portfolio’. </p>
+      </div>
+    </div>
+
 
     <div class="row">
       <div class="col-md-3">
@@ -174,22 +191,6 @@ title: Agile Singapore 2014 - Speakers
       </div>
     </div>
 
-    <div class="row">
-      <div class="col-md-3">
-        <div class="thumbnail">
-          <img src="img/speakers/jutta_eckstein.jpg" width="200" height="200">
-        </div>
-      </div>
-      <div class="bio col-md-9">
-        <a name="jutta_eckstein"></a>
-        <h2>Jutta Eckstein</h2>
-        <p>
-            <a href="http://de.linkedin.com/pub/jutta-eckstein/0/83/486" target="_blank"> LinkedIn</a> |
-            <a href="http://jeckstein.com" target="_blank">jeckstein.com</a> 
-        </p>
-        <p>Jutta Eckstein works as an independent coach, consultant, and trainer. She holds a M.A. in Business Coaching & Change Management, a Dipl.Eng. in Product-Engineering, and a B.A. in Education. She has helped many teams and organizations worldwide to make an Agile transition. She has a unique experience in applying Agile processes within medium-sized to large distributed mission-critical projects. She has published her experience in her books 'Agile Software Development in the Large', 'Agile Software Development with Distributed Teams', 'Retrospectives for Organizational Change', and together with Johanna Rothman 'Diving for Hidden Treasures: Finding the Real Value in your Project Portfolio’. </p>
-      </div>
-    </div>
-
+    
   </div>
 </div>
