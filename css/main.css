@@ -167,16 +167,13 @@ p, li {
   padding: 0;
 }
 
-.lanyrd-people-list a,
-.lanyrd-people-list a:link,
-.lanyrd-people-list a:visited  {
-  color: #EB1C24;
-  border: none;
-}
-
+.lanyrd-schedule-embed a,
 .lanyrd-schedule-embed a:link,
+.lanyrd-schedule-embed a:hover,
+.lanyrd-schedule-embed a:active,
 .lanyrd-schedule-embed a:visited {
   color: #EB1C24;
+  text-decoration: underline;
 }
 
 .lanyrd-schedule-embed {
@@ -186,6 +183,14 @@ p, li {
 
 .lanyrd-schedule-embed h2{
   color: #4D4D4D;
+}
+
+.lanyrd-people-list a,
+.lanyrd-people-list a:link,
+.lanyrd-people-list a:visited  {
+  color: #EB1C24;
+  border: none;
+  text-decoration: none;
 }
 
 footer {
