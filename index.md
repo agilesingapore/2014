@@ -40,7 +40,7 @@ title: Agile Singapore 2014 Conference
     </div>
     <div class="row">
       <div class="col-md-12">
-        <p style="margin-bottom:30px">Interested in sponsoring? Please <a href="mailto:ask2014@agilesingapore.org">contact us</a> if you want to be featured here.</p>
+        <p style="margin-bottom:30px">Interested in sponsoring? Please <a href="mailto:ask2014@agilesingapore.org">contact us</a> if you want to be featured in the conference.</p>
       </div>
     </div>
   </div>
