@@ -71,11 +71,13 @@
 		});
 	}
 
+	// Modified: insert lanyrd css before our main.css so that we can override it
 	function addStyle() {
 		var link = document.createElement('link');
 		link.href = cdn_prefix + 'badges/embed-v1.min.css';
 		link.rel = 'stylesheet';
-		head.appendChild(link);
+		var firstLink = head.getElementsByTagName('link')[0]
+		head.insertBefore(link,firstLink);
 	}
 
 	function addScript(queryString) {
