@@ -167,6 +167,27 @@ p, li {
   padding: 0;
 }
 
+.lanyrd-people-list a,
+.lanyrd-people-list a:link,
+.lanyrd-people-list a:visited  {
+  color: #EB1C24;
+  border: none;
+}
+
+.lanyrd-schedule-embed a:link,
+.lanyrd-schedule-embed a:visited {
+  color: #EB1C24;
+}
+
+.lanyrd-schedule-embed {
+  color: #4D4D4D;
+  font-family: "Ubuntu",Helvetica,Arial,sans-serif;
+}
+
+.lanyrd-schedule-embed h2{
+  color: #4D4D4D;
+}
+
 footer {
   background-color: #333333;
   height:100px;
