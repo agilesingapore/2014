@@ -129,6 +129,24 @@ title: Agile Singapore 2014 - Sponsors
         </div>
     </div>
 
+    <div class="row">
+        <div class="col-md-3">
+			&nbsp;
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-3">
+          <div class="thumbnail">
+            <a href="http://www.ca.com/sg" target="_blank"><img src="img/sponsors/CA.png" width="200" height="200"></a>
+          </div>
+        </div>
+
+        <div class="bio col-md-9">
+          <p><a target=_blank href="http://www.ca.com/sg">CA Technologies</a> creates software that fuels transformation for companies and enables them to seize the opportunities of the application economy. From planning to DevOps to security to systems management, our solutions power innovation and drive competitive advantage for businesses everywhere. We help organizations to drive enterprise-wide productivity, offer differentiated user experiences and open new growth opportunities. And, we are able to deliver this value across multiple environments – mobile, private and public cloud, distributed and mainframe. Recognized by our customers as a critical partner in their IT transformation, CA is working with companies worldwide to change the way we live, transact and communicate.</p>
+        </div>
+    </div>
+
     <div class="row" style="min-height: 100px; padding-top:10px">
            Your company could be featured here.
     </div>
