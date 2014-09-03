@@ -191,6 +191,23 @@ title: Agile Singapore 2014 - Speakers
       </div>
     </div>
 
-    
+    <div class="row">
+      <div class="col-md-3">
+        <div class="thumbnail">
+          <img src="img/speakers/steve_freeman.jpg" width="200" height="200">
+        </div>
+      </div>
+      <div class="bio col-md-9">
+        <a name="freeman"></a>
+        <h2>Steve Freeman</h2>
+        <p>
+            <a href="http://uk.linkedin.com/in/stevefreeman" target="_blank"> LinkedIn</a> |
+            <a href="http://www.higherorderlogic.com" target="_blank">higherorderlogic.com</a> |
+            <a href="https://twitter.com/sf105" target="_blank">@sf105</a>
+        </p>
+        <p>Steve Freeman, author of Growing Object Oriented Software, Guided by Tests (Addison-Wesley), was a pioneer of Agile software development in the UK. Steve is a technical principle with Springer Verlag in London. He has developed software for a range of institutions, from small vendors to multinational investment banks.  Previously, he has worked in research labs and software houses, earned a PhD (Cambridge), written shrink-wrap applications for IBM, and taught at University College London. Steve is a presenter and organiser at international industry conferences, and was chair of the first London XpDay.</p>
+      </div>
+    </div> 
+
   </div>
 </div>
