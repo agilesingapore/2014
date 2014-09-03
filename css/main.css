@@ -174,6 +174,7 @@ p, li {
 .lanyrd-schedule-embed a:visited {
   color: #EB1C24;
   text-decoration: underline;
+  font-size: 1.2em;
 }
 
 .lanyrd-schedule-embed {
@@ -191,8 +192,14 @@ p, li {
   color: #EB1C24;
   border: none;
   text-decoration: none;
+  font-size: 0.98em;
 }
 
+.lanyrd-detailed-list .extended-detail a, 
+.lanyrd-detailed-list .extended-detail a:link, 
+.lanyrd-detailed-list .extended-detail a:visited {
+  font-size: 0.90em;
+}
 footer {
   background-color: #333333;
   height:100px;
