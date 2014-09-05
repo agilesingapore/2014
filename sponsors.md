@@ -105,6 +105,24 @@ title: Agile Singapore 2014 - Sponsors
         </div>
     </div>
 
+    <div class="row">
+        <div class="col-md-3">
+			&nbsp;
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-3">
+          <div class="thumbnail">
+            <a href="http://www.microsoft.com/visualstudio/eng/alm/overview" target="_blank"><img src="img/sponsors/MS.png" width="200" height="200"></a>
+          </div>
+        </div>
+
+        <div class="bio col-md-9">
+          <p>Microsoft Visual Studio &amp; Team Foundation Server is the state-of-the-art development solution that helps organizations to be agile, delivering high-quality software in faster cycles. The solution adapts to their processes and removes barriers between business stakeholders, development teams, testing and operations. It allows them to incrementally adopt agile best practices that best meet the needs of organizations with out-of-the-box support for lightweight requirements, capacity planning, task boards and backlog management, agile portfolio management. And with advanced testing tooling for quality checks throughout the development process, it reduces barriers to development and test collaboration. For more information, visit <a target="_blank" href="http://www.microsoft.com/visualstudio/eng/alm/overview">Visual Studio</a>.</p>
+        </div>
+    </div>
+
     <div class="row" style="min-height: 100px; padding-top:10px">
 			     Your company could be featured here
     </div>
