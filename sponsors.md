@@ -180,7 +180,7 @@ title: Agile Singapore 2014 - Sponsors
     <div class="row">
         <div class="col-md-3">
           <div class="thumbnail">
-            <a href="http://www.infoq.com" target="_blank"><img src="img/sponsors/InfoQ.png" width="200" height="200"></a>
+            <a href="http://www.infoq.com" target="_blank"><img src="img/sponsors/InfoQ.jpg" width="200" height="200"></a>
           </div>
         </div>
 
