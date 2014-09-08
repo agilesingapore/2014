@@ -200,7 +200,7 @@ title: Agile Singapore 2014 - Sponsors
     <div class="row">
         <div class="col-md-3">
           <div class="thumbnail">
-            <a href="http://www.ida.gov.sg" target="_blank"><img src="img/sponsors/IDA.jpg" width="200" height="200"></a>
+            <a href="http://www.ida.gov.sg" target="_blank"><img src="img/sponsors/ida.png" width="200" height="200"></a>
           </div>
         </div>
 
