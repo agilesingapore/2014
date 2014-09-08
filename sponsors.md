@@ -169,5 +169,25 @@ title: Agile Singapore 2014 - Sponsors
            Your company could be featured here.
     </div>
 
+	<h3>Media Sponsor</h3>
+
+    <div class="row">
+        <div class="col-md-3">
+			&nbsp;
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-3">
+          <div class="thumbnail">
+            <a href="http://www.infoq.com" target="_blank"><img src="img/sponsors/InfoQ.png" width="200" height="200"></a>
+          </div>
+        </div>
+
+        <div class="bio col-md-9">
+          <p>Software is changing the world. InfoQ, a news and community site with content currently published in English, Chinese, Japanese, French and Brazilian Portuguese, empowers software developers to be agents of change in their industries. Along with QCon, our practitioner-driven conferences, InfoQ's purpose is to facilitate the spread of knowledge and innovation in enterprise software development. As of 2013, InfoQ.com's readership base is over 850,000 unique visitors per month reading content from 100 locally-based editors across the globe. Our goal is to continue to build localized language communities.</p>
+        </div>
+    </div>
+
   </div>
 </div>
