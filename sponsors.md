@@ -189,5 +189,25 @@ title: Agile Singapore 2014 - Sponsors
         </div>
     </div>
 
+	<h3>Supporters</h3>
+
+    <div class="row">
+        <div class="col-md-3">
+			&nbsp;
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-3">
+          <div class="thumbnail">
+            <a href="http://www.ida.gov.sg" target="_blank"><img src="img/sponsors/IDA.eps" width="200" height="200"></a>
+          </div>
+        </div>
+
+        <div class="bio col-md-9">
+          <p>The mission of the Infocomm Development Authority of Singapore (IDA) is to develop information technology and telecommunications within Singapore with a view to serve citizens of all ages and companies of all sizes. IDA does this by actively supporting the growth of innovative technology companies and start-ups in Singapore, working with leading global IT companies as well as developing excellent information technology and telecommunications infrastructure, policies and capabilities for Singapore.</p>
+        </div>
+    </div>
+
   </div>
 </div>
