@@ -1,7 +1,7 @@
 <div class="programme">
   <div class="container">
   <h1 class="page-header text-center">Programme</h1>
-  <p class="text-center">We'll be updating the programme as we confirm more topics.</p>
+  <p class="text-center">The following programme is subjected to change.</p>
 <div class="lanyrd-target-schedule">
     <a href="http://lanyrd.com/2014/agilesg/schedule/"
         class="lanyrd-schedule"
