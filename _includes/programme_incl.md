@@ -6,7 +6,7 @@
     <a href="http://lanyrd.com/2014/agilesg/schedule/"
         class="lanyrd-schedule"
         data-lanyrd-abstracts
-        data-lanyrd-truncateabstracts="30"
+        data-lanyrd-truncateabstracts="40"
         data-lanyrd-speakers
         data-lanyrd-speakerlabels
         data-lanyrd-nolink
