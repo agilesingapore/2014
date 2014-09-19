@@ -126,6 +126,12 @@ title: Agile Singapore 2014 - Sponsors
 
     <div class="row">
         <div class="col-md-3">
+			&nbsp;
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-3">
           <div class="thumbnail">
             <a href="http://www.titansoft.com.sg" target="_blank"><img src="img/sponsors/Titansoft.png" width="200" height="200"></a>
           </div>
