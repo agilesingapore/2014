@@ -123,6 +123,20 @@ title: Agile Singapore 2014 - Sponsors
         </div>
     </div>
 
+
+    <div class="row">
+        <div class="col-md-3">
+          <div class="thumbnail">
+            <a href="http://www.titansoft.com.sg" target="_blank"><img src="img/sponsors/Titansoft.png" width="200" height="200"></a>
+          </div>
+        </div>
+
+        <div class="bio col-md-9">
+          <p>Titansoft Pte Ltd is a Singapore-based software development company providing software consultancy and tailor-made solutions for the global e-gaming industry. Our cutting-edge software and IT services span across e-gaming solutions, system management, network security, and more. By promoting adaptive planning and evolutionary development, we are able to incorporate rapid and flexible response to changes. The success of our products is attributed to this agile paradigm where every aspect of product development is continually revisited. We are proud to achieve efficient, competitive product delivery with reduced integration lead time to our clients. Find out more about us at: <a target="_blank" href="http://www.titansoft.com.sg">www.titansoft.com.sg</a></p>
+        </div>
+    </div>
+
+
     <div class="row" style="min-height: 100px; padding-top:10px">
 			     Your company could be featured here
     </div>
