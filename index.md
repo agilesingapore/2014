@@ -56,7 +56,7 @@ title: Agile Singapore 2014 Conference
       </div>
       <div class="session col-md-10 text-left">
         <h2>Day 3 Keynote: Build a Workplace People Love - Just add Joy</h2>
-        <p>Joy in the context of business sounds ridiculous, and would be except for one important glaring fact: it produces measurable, repeatable, and sustainable results. Learn why from the founder, CEO, and Cheif Storyteller and author Richard Sheridan. <br><br>
+        <p>Joy in the context of business sounds ridiculous, and would be except for one important glaring fact: it produces measurable, repeatable, and sustainable results. Learn why from the founder, CEO, and Chief Storyteller and author Richard Sheridan. <br><br>
 
         Within an industry known for missed deadlines, poor quality, "death march" processes and user experiences that requireDummies books to explain, this talk will deliver the hope of a better way. Attendees who attend agile and scrum conferences are searching for  tangible examples from which to sample and learn. This talk will deliver inspiration and practical takeaways.<br><br>
 
