@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Agile Singapore 2014 - Programme
+title: Programme Schedule
 
 ---
-
 {% include programme_incl.md %}

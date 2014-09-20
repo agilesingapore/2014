@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Agile Singapore 2014 - Sponsors
+title: Sponsors
 
 ---
 

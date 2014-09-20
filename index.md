@@ -65,8 +65,8 @@ title: Agile Singapore 2014 Conference
         Sheridan will discuss the cultural norms that remove fear and encourage experimentation; you'll hear about the elimination of meetings and the rituals and ceremonies that replace them. Learning Objectives: 1) Design a culture with the right team and leadership in a learning environment; 2) create client involvement; 3) define your environment by joy in an open and collaborative culture and 4) create delightful user experiences.</p>
       </div>
     </div>
-    <div style="margin-top:30px;margin-bottom:30px" class="caption">
-      <a href="programme.html">More topics</a>
+    <div style="margin-top:30px;margin-bottom:30px" class="caption box red">
+      <a href="programme.html">View full programme schedule</a>
     </div>
   </div>
 </div>
