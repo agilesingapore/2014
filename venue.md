@@ -8,6 +8,9 @@ title: Venue
   <div class="container text-center">
     <h1 class="page-header">Venue</h1>
     <div class="googlemap">
+          <img src="img/marinabaysands.jpg" width="1200" height="300">
+    </div>
+    <div class="googlemap">
       <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Marina+Bay+Sands+Expo+%26+Convention+Centre,+10+Bayfront+Avenue,+Singapore&amp;aq=0&amp;oq=Marina+Bay+Sands&amp;sll=1.283684,103.858759&amp;sspn=0.01506,0.022724&amp;ie=UTF8&amp;hq=Marina+Bay+Sands+Expo+%26+Convention+Centre,&amp;hnear=10+Bayfront+Ave,+Singapore+018956&amp;ll=1.282498,103.858519&amp;spn=0.00753,0.011362&amp;t=m&amp;z=14&amp;iwloc=near&amp;cid=12349751240448585393&amp;output=embed"></iframe>
     </div>
 
