@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Agile Singapore 2014 Conference
-
+title: Home
 ---
 
 <div class="jumbotron">
@@ -32,7 +31,11 @@ title: Agile Singapore 2014 Conference
       </div>
       <div class="session col-md-10 text-left">
         <h2>Day 1 Keynote: The Power of an Agile mindset</h2>
-        <p>I've wondered for some time whether much of Agile's success was the result of the placebo effect, that is, good things happened because we believed they would. The placebo effect is a startling reminder of the power our minds have over our perceived reality. Now cognitive scientists tell us that this is only a small part of what our minds can do. Research has identified what I like to call "an agile mindset," an attitude that equates failure and problems with opportunities for learning, a belief that we can all improve over time, that our abilities are not fixed but evolve with effort. What's surprising about this research is the impact of an agile mindset on creativity and innovation, estimation, and collaboration in and out of the workplace. I'll relate what's known about this mindset and share some practical suggestions that can help all of us become even more agile.</p>
+        <p>I've wondered for some time whether much of Agile's success was the result of the placebo effect, that is, good things happened because we believed they would.</p>
+
+        <p>The placebo effect is a startling reminder of the power our minds have over our perceived reality. Now cognitive scientists tell us that this is only a small part of what our minds can do. Research has identified what I like to call "an agile mindset," an attitude that equates failure and problems with opportunities for learning, a belief that we can all improve over time, that our abilities are not fixed but evolve with effort.<p> 
+
+        <p>What's surprising about this research is the impact of an agile mindset on creativity and innovation, estimation, and collaboration in and out of the workplace. I'll relate what's known about this mindset and share some practical suggestions that can help all of us become even more agile.</p>
       </div>
     </div>
     <div class="row">
@@ -56,13 +59,14 @@ title: Agile Singapore 2014 Conference
       </div>
       <div class="session col-md-10 text-left">
         <h2>Day 3 Keynote: Build a Workplace People Love - Just add Joy</h2>
-        <p>Joy in the context of business sounds ridiculous, and would be except for one important glaring fact: it produces measurable, repeatable, and sustainable results. Learn why from the founder, CEO, and Chief Storyteller and author Richard Sheridan. <br><br>
 
-        Within an industry known for missed deadlines, poor quality, "death march" processes and user experiences that requireDummies books to explain, this talk will deliver the hope of a better way. Attendees who attend agile and scrum conferences are searching for  tangible examples from which to sample and learn. This talk will deliver inspiration and practical takeaways.<br><br>
+        <p>Joy in the context of business sounds ridiculous, and would be except for one important glaring fact: it produces measurable, repeatable, and sustainable results. Learn why from the founder, CEO, and Chief Storyteller and author Richard Sheridan.</p>
 
-        Agile methodologies practiced The Menlo Way™ since 2001 are both joyful and disciplined. In this session, Sheridan will share from him personal experiences about the effects of physical space on team energy and engagement, the benefit of simple paper-based project management tools to foster better sponsor relationships, the power of systematic pairing in creating a learning organization that render towers of knowledge and Brooks' Law quaint challenges of the past.<br><br>
+        <p>Within an industry known for missed deadlines, poor quality, "death march" processes and user experiences that require Dummies books to explain, this talk will deliver the hope of a better way. Attendees who attend agile and scrum conferences are searching for  tangible examples from which to sample and learn. This talk will deliver inspiration and practical takeaways.</p>
 
-        Sheridan will discuss the cultural norms that remove fear and encourage experimentation; you'll hear about the elimination of meetings and the rituals and ceremonies that replace them. Learning Objectives: 1) Design a culture with the right team and leadership in a learning environment; 2) create client involvement; 3) define your environment by joy in an open and collaborative culture and 4) create delightful user experiences.</p>
+        <p>Agile methodologies practiced The Menlo Way™ since 2001 are both joyful and disciplined. In this session, Sheridan will share from him personal experiences about the effects of physical space on team energy and engagement, the benefit of simple paper-based project management tools to foster better sponsor relationships, the power of systematic pairing in creating a learning organization that render towers of knowledge and Brooks' Law quaint challenges of the past.</p>
+
+        <p>Sheridan will discuss the cultural norms that remove fear and encourage experimentation; you'll hear about the elimination of meetings and the rituals and ceremonies that replace them. Learning Objectives: 1) Design a culture with the right team and leadership in a learning environment; 2) create client involvement; 3) define your environment by joy in an open and collaborative culture and 4) create delightful user experiences.</p>
       </div>
     </div>
     <div style="margin-top:30px;margin-bottom:30px" class="caption box red">
