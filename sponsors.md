@@ -96,6 +96,24 @@ title: Sponsors
     <div class="row">
         <div class="col-md-3">
           <div class="thumbnail">
+            <a href="http://www.iss.nus.edu.sg" target="_blank"><img src="img/sponsors/nus_iss.png" width="200" height="200"></a>
+          </div>
+        </div>
+
+        <div class="bio col-md-9">
+          <p>We will be filling the description as soon we have the details.</p>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-3">
+      &nbsp;
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-3">
+          <div class="thumbnail">
             <a href="http://www.valtech.com" target="_blank"><img src="img/sponsors/Valtech.png" width="200" height="200"></a>
           </div>
         </div>
