@@ -96,12 +96,12 @@ title: Sponsors
     <div class="row">
         <div class="col-md-3">
           <div class="thumbnail">
-            <a href="http://www.valtech.com" target="_blank"><img src="img/sponsors/Valtech.png" width="200" height="200"></a>
+            <a href="http://sg.valtech.com" target="_blank"><img src="img/sponsors/Valtech.png" width="200" height="200"></a>
           </div>
         </div>
 
         <div class="bio col-md-9">
-          <p><a target=_blank href="http://www.valtech.com">Valtech</a> is a new breed of technology and marketing digital agency. We are full service and operate across all project lifecycle from strategy and consulting to maintenance and optimization. Our way is the agile way. And it goes far beyond software development. According to the client's needs, we bring together our tribes of seasoned experts: digital strategists, scrum masters, strategic planners, designers, developers, web analytics experts, agile coaches. Agile enables us to work better together and with our clients following methodologies: defining objectives and identifying main issues from the start, focusing on clear priorities and providing solutions where they matter most.</p>
+          <p><a target=_blank href="http://sg.valtech.com">Valtech</a> is a new breed of technology and marketing digital agency. We are full service and operate across all project lifecycle from strategy and consulting to maintenance and optimization. Our way is the agile way. And it goes far beyond software development. According to the client's needs, we bring together our tribes of seasoned experts: digital strategists, scrum masters, strategic planners, designers, developers, web analytics experts, agile coaches. Agile enables us to work better together and with our clients following methodologies: defining objectives and identifying main issues from the start, focusing on clear priorities and providing solutions where they matter most.</p>
         </div>
     </div>
 
