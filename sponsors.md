@@ -114,7 +114,10 @@ title: Sponsors
     <div class="row">
         <div class="col-md-3">
           <div class="thumbnail">
-            <a href="http://www.iss.nus.edu.sg" target="_blank"><img src="img/sponsors/nus_iss.png" width="200" height="200"></a>
+            <img src="img/sponsors/ISS-GoodAgile.png" usemap="#iss-goodagile-map" width="200" height="200">
+            <map name="iss-goodagile-map"
+              area shape="rect" coords="0,0,200,50" href="http://www.iss.nus.edu.sg" target="_blank"
+              area shape="rect" coords="0,60,200,120" href="http://goodagile.com" target="_blank">
           </div>
         </div>
 
