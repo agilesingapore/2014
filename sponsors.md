@@ -122,7 +122,7 @@ title: Sponsors
         </div>
 
         <div class="bio col-md-9">
-          <p>We will be filling the description as soon we have the details.</p>
+          <p>Institute of Systems Science (ISS) at the National University of Singapore and GoodAgile have partnered to deliver Certified ScrumMaster. ISS provides graduate education, professional development courses, consultancy and research services. Appointed as a Continuing Education and Training Centre for the National Infocomm Competency Framework, ISS offer short courses in areas of enterprise IT, agile, project management, service innovation and more. GoodAgile is a leading Agile training and coaching organisation in Asia.  Founded by Pete Deemer, co-author of The Scrum Primer, GoodAgile works with some of the largest companies in the world to achieve exceptional results using Agile. Visit <a target=_blank href="http://www.iss.nus.edu.sg">www.iss.nus.edu.sg</a> or <a target=_blank href="http://goodagile.com">goodagile.com</a> for more info.</p>
         </div>
     </div>
 
