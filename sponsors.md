@@ -274,7 +274,7 @@ title: Sponsors
     <div class="row">
         <div class="col-md-3">
           <div class="thumbnail">
-            <img src="images/sponsors/sitf.png" width="200" usemap="#sitf-map">
+            <img src="img/sponsors/sitf.png" width="200" usemap="#sitf-map">
             <map name="sitf-map">
               <area shape="rect" coords="0,0,100,40" href="http://sitf.org.sg" target="_blank">
               <area shape="rect" coords="100,0,400,40" href="http://theportal.sg" target="_blank">
