@@ -145,7 +145,6 @@ title: Sponsors
         </div>
     </div>
 
-
     <div class="row">
         <div class="col-md-3">
 			&nbsp;
@@ -164,6 +163,24 @@ title: Sponsors
         </div>
     </div>
 
+
+    <div class="row">
+        <div class="col-md-3">
+			&nbsp;
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-3">
+          <div class="thumbnail">
+            <a href="http://www.thoughtworks.com" target="_blank"><img src="img/sponsors/thoughtworks.jpg" width="200" height="200"></a>
+          </div>
+        </div>
+
+        <div class="bio col-md-9">
+          <p><a target="_blank" href="http://www.thoughtworks.com">ThoughtWorks</a> is a software company and community of passionate individuals whose purpose is to revolutionize software creation and delivery, while advocating for positive social change. Our clients are people and organizations with ambitious missions; we deliver disruptive thinking and technology to empower them to succeed. In our 20th year, over 2500 ThoughtWorks employees - 'ThoughtWorkers' - serve clients from offices in Australia, Brazil, Canada, China, Ecuador, Germany, India, Singapore, South Africa, Uganda, the U.K. and the U.S.</p>
+        </div>
+    </div>
 
     <div class="row" style="min-height: 100px; padding-top:10px">
 			     Your company could be featured here
