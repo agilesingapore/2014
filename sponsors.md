@@ -268,5 +268,24 @@ title: Sponsors
         </div>
     </div>
 
+    <div class="row">
+        <div class="col-md-3">&nbsp;</div>
+    </div>
+    <div class="row">
+        <div class="col-md-3">
+          <div class="thumbnail">
+            <img src="images/sponsors/sitf.png" width="200" usemap="#sitf-map">
+            <map name="sitf-map">
+              <area shape="rect" coords="0,0,100,40" href="http://sitf.org.sg" target="_blank">
+              <area shape="rect" coords="100,0,400,40" href="http://theportal.sg" target="_blank">
+            </map>
+          </div>
+        </div>
+
+        <div class="bio col-md-9">
+          <p>Singapore infocomm Technology Federation (SiTF) comprises corporate members ranging from startups to establish MNCs. SiTF advocates for the ICM industry and helps to accelerate the adoption ICM technology. SiTF works closely with stakeholders to promote emerging technologies and provide opportunities to help members increase their market presence and business reach. Among the key events are Golf, SiTF Awards, SITEX and ICT Business Summit. The key initiatives include MatchiT, PartneriT, 123JumpStart, SiTF Academy, PPPO and The Portal.</p>
+        </div>
+    </div>
+
   </div>
 </div>
