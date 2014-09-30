@@ -215,7 +215,7 @@ title: Sponsors
     <div class="row">
         <div class="col-md-3">
           <div class="thumbnail">
-            <a href="http://www.ca.com/sg" target="_blank"><img src="img/sponsors/CA.png" width="200" height="200"></a>
+            <a href="http://www.ca.com/sg" target="_blank"><img src="img/sponsors/CA.png" style="padding:20px !important;" width="200" height="200"></a>
           </div>
         </div>
 
@@ -289,7 +289,7 @@ Scrum is an ongoing journey.  And it’s important to surround yourself with th
     <div class="row">
         <div class="col-md-3">
           <div class="thumbnail">
-            <a href="http://www.ida.gov.sg" target="_blank"><img src="img/sponsors/ida.png" width="200" height="200"></a>
+            <a href="http://www.ida.gov.sg" target="_blank"><img src="img/sponsors/ida.png" width="200" height="200" style="padding:20px !important;"></a>
           </div>
         </div>
 
