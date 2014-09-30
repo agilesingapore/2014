@@ -248,6 +248,36 @@ title: Sponsors
         </div>
     </div>
 
+    <div class="row">
+        <div class="col-md-3">
+			&nbsp;
+        </div>
+    </div>
+
+	<h3>Coffee-break Sponsor</h3>
+
+    <div class="row">
+        <div class="col-md-3">
+			&nbsp;
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-3">
+          <div class="thumbnail">
+            <a href="http://www.scrumalliance.org" target="_blank"><img src="img/sponsors/ScrumAlliance.jpg" width="200" height="200"></a>
+          </div>
+        </div>
+
+        <div class="bio col-md-9">
+          <p>Become part of something bigger than you alone. With over 300,000 members world-wide, <a target=_blank href="http://www.scrumalliance.org">Scrum Alliance</a> brings you together with like-minded people who are passionate about Scrum and who dream, explore – and live – project management brilliance every day. A nonprofit professional organization, we provide advocacy, community, and education to support this movement, equip our members, and help them succeed with Scrum in software development and beyond. Come sprint with us!</p>
+
+          <p>Join the Largest Scrum Community for FREE!
+Scrum is an ongoing journey.  And it’s important to surround yourself with the best minds, ideas and advice along the way. Find all this and more at Scrum Alliance, the place to learn and talk about Scrum. Become part of our Scrum Community for free as a SCRUM ALLIANCE® Basic Member.
+<a target=_blank href="http://www.scrumalliance.org/freemembership">http://www.scrumalliance.org/freemembership</a></p>
+        </div>
+    </div>
+
 	<h3>Supporters</h3>
 
     <div class="row">
