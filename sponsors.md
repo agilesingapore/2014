@@ -178,7 +178,7 @@ title: Sponsors
         </div>
 
         <div class="bio col-md-9">
-          <p><a target="_blank" href="http://www.thoughtworks.com">ThoughtWorks</a> is a software company and community of passionate individuals whose purpose is to revolutionize software creation and delivery, while advocating for positive social change. Our clients are people and organizations with ambitious missions; we deliver disruptive thinking and technology to empower them to succeed. In our 20th year, over 2500 ThoughtWorks employees - 'ThoughtWorkers' - serve clients from offices in Australia, Brazil, Canada, China, Ecuador, Germany, India, Singapore, South Africa, Uganda, the U.K. and the U.S.</p>
+          <p><a target="_blank" href="http://www.thoughtworks.com">ThoughtWorks</a> is a software company and community of passionate individuals whose purpose is to revolutionise software creation and delivery, while advocating for positive social change. Our clients are people and organisations with ambitious missions; we deliver disruptive thinking and technology to empower them to succeed. Over 2500 ThoughtWorks employees - 'ThoughtWorkers' - serve clients from offices in Australia, Brazil, Canada, China, Ecuador, Germany, India, Singapore, South Africa, Uganda, the U.K. and the U.S.</p>
         </div>
     </div>
 
