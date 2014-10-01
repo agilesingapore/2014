@@ -325,11 +325,7 @@ Scrum is an ongoing journey.  And it’s important to surround yourself with th
     <div class="row">
         <div class="col-md-3">
           <div class="thumbnail">
-            <img src="img/sponsors/AgileAlliance.jpg" width="200" usemap="#agilealliance-map">
-            <map name="agilealliance-map">
-              <area shape="rect" coords="0,0,100,40" href="http://www.agilealliance.org" target="_blank">
-              <area shape="rect" coords="100,0,400,40" href="http://www.agilealliance.org" target="_blank">
-            </map>
+			<a href="http://www.agilealliance.org" target="_blank"><img src="img/sponsors/AgileAlliance.jpg" width="200" height="200"></a>
           </div>
         </div>
 
