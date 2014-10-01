@@ -301,6 +301,7 @@ Scrum is an ongoing journey.  And it’s important to surround yourself with th
     <div class="row">
         <div class="col-md-3">&nbsp;</div>
     </div>
+
     <div class="row">
         <div class="col-md-3">
           <div class="thumbnail">
@@ -314,6 +315,26 @@ Scrum is an ongoing journey.  And it’s important to surround yourself with th
 
         <div class="bio col-md-9">
           <p>Singapore infocomm Technology Federation (SiTF) comprises corporate members ranging from startups to establish MNCs. SiTF advocates for the ICM industry and helps to accelerate the adoption ICM technology. SiTF works closely with stakeholders to promote emerging technologies and provide opportunities to help members increase their market presence and business reach. Among the key events are Golf, SiTF Awards, SITEX and ICT Business Summit. The key initiatives include MatchiT, PartneriT, 123JumpStart, SiTF Academy, PPPO and The Portal.</p>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-3">&nbsp;</div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-3">
+          <div class="thumbnail">
+            <img src="img/sponsors/AgileAlliance.jpg" width="200" usemap="#agilealliance-map">
+            <map name="agilealliance-map">
+              <area shape="rect" coords="0,0,100,40" href="http://www.agilealliance.org" target="_blank">
+              <area shape="rect" coords="100,0,400,40" href="http://www.agilealliance.org" target="_blank">
+            </map>
+          </div>
+        </div>
+
+        <div class="bio col-md-9">
+          <p>The Agile Alliance is a nonprofit organization with global membership, committed to advancing <a target=_blank href="http://www.agilealliance.org/the-alliance/the-agile-manifesto">Agile development principles and practices</a>. Agile Alliance supports those who explore and apply Agile principles and practices in order to make the software industry more productive, humane and sustainable. We share our passion to deliver software better everyday.</p>
         </div>
     </div>
 
