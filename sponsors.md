@@ -190,7 +190,7 @@ title: Sponsors
     <div class="row">
         <div class="col-md-3">
           <div class="thumbnail">
-            <a href="http://www.wds.co" target="_blank"><img src="img/sponsors/wds.png" width="200" height="200"></a>
+            <a href="http://www.wds.co" target="_blank"><img src="img/sponsors/wds.png" width="180" height="180"></a>
           </div>
         </div>
 
