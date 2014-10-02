@@ -163,7 +163,6 @@ title: Sponsors
         </div>
     </div>
 
-
     <div class="row">
         <div class="col-md-3">
 			&nbsp;
@@ -179,6 +178,24 @@ title: Sponsors
 
         <div class="bio col-md-9">
           <p><a target="_blank" href="http://www.thoughtworks.com">ThoughtWorks</a> is a software company and community of passionate individuals whose purpose is to revolutionise software creation and delivery, while advocating for positive social change. Our clients are people and organisations with ambitious missions; we deliver disruptive thinking and technology to empower them to succeed. Over 2500 ThoughtWorks employees - 'ThoughtWorkers' - serve clients from offices in Australia, Brazil, Canada, China, Ecuador, Germany, India, Singapore, South Africa, Uganda, the U.K. and the U.S.</p>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-3">
+			&nbsp;
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-3">
+          <div class="thumbnail">
+            <a href="http://www.wds.co" target="_blank"><img src="img/sponsors/wds.png" width="200" height="200"></a>
+          </div>
+        </div>
+
+        <div class="bio col-md-9">
+          <p>WDS, A Xerox Company is a global leader in the delivery of transformational customer care solutions. Built around a cognitive technology platform that continually learns from the customer care transactions that pass through it, WDS help clients to leverage their existing data assets to increase efficiency across the care-mix; from improved agent performance to self-care automation and personalization. Quite simply, WDS enable customers to find the answers they need and ensure that every customer care experience is better than the last.  To find out more, please visit <a target="_blank" href="http://www.wds.co">www.wds.co</a></p>
         </div>
     </div>
 
