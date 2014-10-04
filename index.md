@@ -8,7 +8,7 @@ title: Home
       <h1>Agile Singapore 2014<br/>Conference</h1>
       <h2>12 to 14 November, Marina Bay Sands</h2>
 
-      <p><a class="btn btn-primary btn-lg" role="button" href="http://agilesg2014.gevme.com" target="_blank">Early Bird Tickets</a></p>
+      <p><a class="btn btn-primary btn-lg" role="button" href="http://agilesg2014.gevme.com" target="_blank">Buy Tickets</a></p>
       <p><a class="learn2013 btn btn-info btn-sm" role="button" href="http://2013.agilesingapore.org" target="_blank">Learn more about 2013</a></p>
 
       <ul class="social list-inline">
@@ -20,7 +20,7 @@ title: Home
         <input style="color: black" type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
         <div style="position: absolute; left: -5000px;"><input type="text" name="b_d41961d22f686fe43e93b7524_57ca987e54" tabindex="-1" value=""></div>
         <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary">
-        </form> 
+        </form>
    </div>
 </div>
 
@@ -38,7 +38,7 @@ title: Home
         <h2>Day 1 Keynote: The Power of an Agile mindset</h2>
         <p>I've wondered for some time whether much of Agile's success was the result of the placebo effect, that is, good things happened because we believed they would.</p>
 
-        <p>The placebo effect is a startling reminder of the power our minds have over our perceived reality. Now cognitive scientists tell us that this is only a small part of what our minds can do. Research has identified what I like to call "an agile mindset," an attitude that equates failure and problems with opportunities for learning, a belief that we can all improve over time, that our abilities are not fixed but evolve with effort.<p> 
+        <p>The placebo effect is a startling reminder of the power our minds have over our perceived reality. Now cognitive scientists tell us that this is only a small part of what our minds can do. Research has identified what I like to call "an agile mindset," an attitude that equates failure and problems with opportunities for learning, a belief that we can all improve over time, that our abilities are not fixed but evolve with effort.<p>
 
         <p>What's surprising about this research is the impact of an agile mindset on creativity and innovation, estimation, and collaboration in and out of the workplace. I'll relate what's known about this mindset and share some practical suggestions that can help all of us become even more agile.</p>
       </div>
