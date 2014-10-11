@@ -1,3 +1,5 @@
+/* @override http://agilesg2014.dev/css/main.css */
+
 p, li {
   font-size: 16px;
 }
@@ -18,6 +20,14 @@ p, li {
 .navbar-default {
 /*  background-color: transparent;*/
   border-color: transparent;
+}
+
+.navbar-right .btn-primary {
+  color: #fff !important;
+}
+
+.navbar-right a.btn-primary:hover {
+  background: #da131b !important;
 }
 
 .jumbotron {
@@ -232,6 +242,10 @@ footer a {
 
   .page-header {
     font-size: 2.4em;
+  }
+  
+  form#mc-embedded-subscribe-form {
+  	display: none;
   }
 
 }
