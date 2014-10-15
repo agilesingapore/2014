@@ -72,14 +72,13 @@ title: Sponsors
     <div class="row">
         <div class="col-md-3">
           <div class="thumbnail">
-            <a href="http://www.baml.com/" target="_blank"><img src="img/sponsors/BAML.png" width="200" height="200"></a>
+            <a href="http://www.baml.com" target="_blank"><img src="img/sponsors/baml.png" width="200" height="200"></a>
           </div>
         </div>
 
         <div class="bio col-md-9">
-          <p><a target=_blank href="http://www.baml.com">Bank of America</a> is one of the world's largest financial institutions, serving individual consumers, small- and middle-market businesses and large corporations. Bank of America Merrill Lynch is the marketing name for our international businesses and is a long-established participant in Asia Pacific with a presence since 1947. With 23 offices in 12 geographies, we offer an integrated and comprehensive set of products and services across Global Corporate & Investment Banking, Global Markets and Wealth Management, serving the needs of individual, corporate, institutional and government clients, combining the best of local knowledge and global expertise.
-
-		Our strong technical foundation allows us to deliver comprehensive solutions that help clients succeed in today's market and prepare for the future.</p>
+          <p><a target=_blank href="http://www.baml.com">Bank of America</a> is one of the world's largest financial institutions, serving individual consumers, small- and middle-market businesses and large corporations. Bank of America Merrill Lynch is the marketing name for our international businesses and is a long-established participant in Asia Pacific with a presence since 1947. With 23 offices in 12 geographies, we offer an integrated and comprehensive set of products and services across Global Corporate & Investment Banking, Global Markets and Wealth Management, serving the needs of individual, corporate, institutional and government clients, combining the best of local knowledge and global expertise.</p>
+		      <p>Our strong technical foundation allows us to deliver comprehensive solutions that help clients succeed in today's market and prepare for the future.</p>
         </div>
     </div>
 
