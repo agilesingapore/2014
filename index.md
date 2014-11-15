@@ -8,19 +8,13 @@ title: Home
       <h1>Agile Singapore 2014<br/>Conference</h1>
       <h2>12 to 14 November, Marina Bay Sands</h2>
 
-      <p><a class="btn btn-primary btn-lg" role="button" href="http://agilesg2014.gevme.com" target="_blank">Buy Tickets</a></p>
+      <p><a class="btn btn-primary btn-lg" role="button" href="http://agilesg2014.sched.org" target="_blank">Thank you for the amazing 3 days!</a></p>
       <p><a class="learn2013 btn btn-info btn-sm" role="button" href="http://2013.agilesingapore.org" target="_blank">Learn more about 2013</a></p>
 
       <ul class="social list-inline">
         <li><span class="fa fa-facebook"></span> <a href="https://www.facebook.com/events/327707307383700/">Visit Event Page</a></li>
         <li><span class="fa fa-twitter"></span> <a href="https://twitter.com/search?q=%23AgileSG" target="_blank">#AgileSG</a></li>
-        <li><span class="fa fa-bullhorn"></span> Subscribe for News</li>
       </ul>
-       <form action="//agilesingapore.us4.list-manage.com/subscribe/post?u=d41961d22f686fe43e93b7524&amp;id=57ca987e54" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-        <input style="color: black" type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-        <div style="position: absolute; left: -5000px;"><input type="text" name="b_d41961d22f686fe43e93b7524_57ca987e54" tabindex="-1" value=""></div>
-        <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary">
-        </form>
    </div>
 </div>
 
