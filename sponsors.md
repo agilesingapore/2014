@@ -178,7 +178,7 @@ title: Sponsors
         </div>
 
         <div class="bio col-md-9">
-          <p>Titansoft Pte Ltd is a Singapore-based software development company providing software consultancy and tailor-made solutions for the global e-gaming industry. Our cutting-edge software and IT services span across e-gaming solutions, system management, network security, and more. By promoting adaptive planning and evolutionary development, we are able to incorporate rapid and flexible response to changes. The success of our products is attributed to this agile paradigm where every aspect of product development is continually revisited. We are proud to achieve efficient, competitive product delivery with reduced integration lead time to our clients. Find out more about us at: <a target="_blank" href="http://www.titansoft.com.sg">www.titansoft.com.sg</a></p>
+          <p>Titansoft Pte Ltd is a Singapore-based software development company providing software consultancy and tailor-made solutions to empower our customers in becoming global market leaders. Our cutting-edge software and IT services span across customised solutions, system management, network security, and more. By promoting adaptive planning and evolutionary development, we are able to incorporate rapid and flexible response to changes. The success of our products is attributed to this agile paradigm where every aspect of product development is continually revisited. We are proud to achieve efficient, competitive product delivery with reduced integration lead time to our clients. Find out more about us at: <a target="_blank" href="http://www.titansoft.com.sg">www.titansoft.com.sg</a></p>
         </div>
     </div>
 
