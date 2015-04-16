@@ -8,7 +8,7 @@ title: Home
       <h1>Agile Singapore 2014<br/>Conference</h1>
       <h2>12 to 14 November, Marina Bay Sands</h2>
 
-      <p><a class="btn btn-primary btn-lg" role="button" href="http://agilesg2014.sched.org" target="_blank">Thank you for the amazing 3 days!</a></p>
+      <p><a class="btn btn-primary btn-lg" role="button" href="http://infoq.com/agile-singapore-2014" target="_blank">Thank you for the amazing 3 days!</a></p>
       <p><a class="learn2013 btn btn-info btn-sm" role="button" href="http://2013.agilesingapore.org" target="_blank">Learn more about 2013</a></p>
 
       <ul class="social list-inline">
