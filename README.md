@@ -5,7 +5,7 @@ gem install jekyll
 
 Run locally
 ```
-jekyll serve --watch
+jekyll serve
 ```
 
 To deploy, use the following after commit
